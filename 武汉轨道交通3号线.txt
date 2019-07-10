@@ -1,0 +1,3183 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+
+
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="referrer" content="always" />
+<meta name="description" content="武汉轨道交通3号线全线位于地下，起于沌阳大道，经过6个城区到达宏图大道，是连接汉口、汉阳的骨干线路，也是第一条下穿汉江的地铁线路，穿过武汉经济技术开发区、汉阳区、硚口区、江汉区、江岸区、东西湖区6个城区，2012年03月31日全面开工，于2015年12月28日开通。武汉轨道交通3号线与武汉轨道交通2号线、武汉轨道交通4号线形成连接武汉三镇汉口，武昌，汉阳的环线。2015年02月03日，武汉市十三届人大四次会议在汉口开幕，代市长万勇作政府工作报告时向1000多万市民承诺，牢记“地铁生日”。3号线一期于2015年12月28日顺利建成通车，实现中心城区地铁初步成网。...">
+<title>武汉地铁3号线_百度百科</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+
+<meta name="keywords" content="武汉地铁3号线 武汉轨道交通三号线 武汉轨道交通3号线 武汉地铁3号线站点介绍 武汉地铁3号线概况 武汉地铁3号线建设意义 武汉地铁3号线特点 武汉地铁3号线建设及施工 武汉地铁3号线车站简介 武汉地铁3号线通车意义 武汉地铁3号线运营商简介 武汉地铁3号线二期工程">
+<meta name="image" content="https://bkssl.bdimg.com/cms/static/baike.png">
+<script type="text/javascript">
+  // 配置 PD 监控。
+  window.alogObjectConfig = {
+    product: '103',
+    page: '103_1',
+    speed: {
+      sample: '0.008'
+    },
+    monkey: {
+      sample: '1',
+      hid: '1533'
+    },
+    exception: { 
+      sample: '0.004'
+    },
+    feature: {
+      sample: '0.004'
+    },
+    csp: {
+      sample: '0.008',
+      'default-src': [
+        {match: '*.baidu.com,*.bdimg.com,localhost', target: 'Accept'},
+        {match: '*', target: 'Accept,Warn'}
+      ]
+    }
+  };
+
+  void function(a,b,c,d,e,f,g){a.alogObjectName=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=a[e].l||+new Date,d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d;var h=!0;if(a.alogObjectConfig&&a.alogObjectConfig.sample){var i=Math.random();a.alogObjectConfig.rand=i,i>a.alogObjectConfig.sample&&(h=!1)}h&&(f=b.createElement(c),f.async=!0,f.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function a(){}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date),alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:a,tti:a,page_ready:a}}();
+  void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+</script>
+<meta name="csrf-token" content="">
+<meta itemprop="dateUpdate" content="2019-07-02 15:08:36" />
+
+<!--[if lte IE 9]>
+<script>
+    (function() {
+      var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),
+        i = e.length;
+      while (i--) {
+        document.createElement(e[i]);
+      }
+    })();
+  </script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_6cdcdef.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_66a9374.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/component/userbar-n/userbar-n_2890903.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/larkplayer/larkplayer_981c735.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/webuploader/webuploader_08d9db4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module_6f6d7c5.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/announcement/announcement_cba33f4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/label/label_1b0bc0e.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/newSideShare/sideShare_9c411cd.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/video/pageMask/pageMask_ff9a193.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/mainContent_98e3702.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaRelation_496a30a.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_3b0d7a5.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/toolButtons-n_8b4919b.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/userInfo-n_7e90184.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/searchHeader-n_f9a6e5b.css"/>    
+</head>
+
+<script type="text/javascript">
+    alog('speed.set', 'ht', +new Date);
+</script>
+<script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?55b574651fcae74b0a9f1cf9c8d7c93a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+<body class="wiki-lemma normal">
+
+
+<div class="header-wrapper pc-header-new">
+<div class="topbar cmn-clearfix">
+<ul class="wgt-userbar wgt-userbar-n" id="j-wgt-userbar">
+<li>
+<a href="http://www.baidu.com/">百度首页</a>
+</li>
+</ul>
+<div class="separator"></div>
+<div class="wiki-common-headTabBar">
+<a href="https://www.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/s?ie=utf-8&fr=bks0000&wd=">网页</a>
+<a href="http://news.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://news.baidu.com/ns?tn=news&cl=2&rn=20&ct=1&fr=bks0000&ie=utf-8&word=">新闻</a>
+<a href="https://tieba.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=">贴吧</a>
+<a href="https://zhidao.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://zhidao.baidu.com/search?pn=0&&rn=10&lm=0&fr=bks0000&word=">知道</a>
+<a href="http://music.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://music.baidu.com/search?f=ms&ct=134217728&ie=utf-8&rn=&lm=-1&pn=30&fr=bks0000&key=">音乐</a>
+<a href="http://image.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=">图片</a>
+<a href="http://v.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&ie=utf-8&rsv_spt=17&wd=">视频</a>
+<a href="http://map.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://map.baidu.com/m?ie=utf-8&fr=bks0000&word=">地图</a>
+<a href="https://wenku.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&fr=bks0000&word=">文库</a>
+<b class="baike">百科</b>
+</div>
+</div>
+<div class="header">
+<div class="layout">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-main cmn-clearfix wgt-searchbar-large">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080011" name="word" type="text" autocomplete="off" autocorrect="off" value="武汉轨道交通3号线" /><button id="search" nslog="normal" nslog-type="10080008" type="button">进入词条</button><button id="searchLemma" nslog="normal" nslog-type="10080009" type="button">全站搜索</button><a class="help" href="/help" nslog="normal" nslog-type="10080010" target="_blank">帮助</a>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="clear" style="margin-right:8px;">清除历史记录</span><span id="close" nslog="normal" nslog-type="10080012">关闭</span>
+</li>
+</ul>
+</div></div>
+</div>
+<div class="declare-wrap" id="J-declare-wrap">
+<div class="declare" id="J-declare">声明：百科词条人人可编辑，词条创建和修改均免费，绝不存在官方及代理商付费代编，请勿上当受骗。<a class="declare-details" target="_blank" href="/common/declaration">详情>></a>
+<div class="close-btn" id="J-declare-close">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-wrapper">
+<div class="wgt-navbar">
+<div class="navbar-bg">
+<div class="navbar-bg-top">
+<div class="navbar-content layout">
+<div class="navbar-content-box">
+<dl class="index ">
+<dt><a href="/">首页</a></dt>
+<dd>
+<div><a href="/calendar/" target="_blank">历史上的今天</a></div>
+<div><a href="/vbaike/" target="_blank">百科冷知识</a></div>
+<div><a href="/vbaike#gallary" target="_blank">图解百科</a></div>
+</dd>
+</dl>
+<dl class="cat ">
+<dt><a>分类</a></dt>
+<dd>
+<div><a href="/art" target="_blank">艺术</a></div>
+<div><a href="/science" target="_blank">科学</a></div>
+<div><a href="/ziran" target="_blank">自然</a></div>
+<div><a href="/wenhua" target="_blank">文化</a></div>
+<div><a href="/dili" target="_blank">地理</a></div>
+<div><a href="/shenghuo" target="_blank">生活</a></div>
+<div><a href="/shehui" target="_blank">社会</a></div>
+<div><a href="/renwu" target="_blank">人物</a></div>
+<div><a href="/jingji" target="_blank">经济</a></div>
+<div><a href="/tiyu" target="_blank">体育</a></div>
+<div><a href="/lishi" target="_blank">历史</a></div>
+</dd>
+</dl>
+<dl class="second-know ">
+<dt><a>秒懂百科</a></dt>
+<dd><div><a href="https://child.baidu.com/" target="_blank">懂啦</a></div>
+<div><a href="/item/秒懂星课堂" target="_blank">秒懂星课堂</a></div>
+<div><a href="/item/秒懂大师说" target="_blank">秒懂大师说</a></div>
+<div><a href="/item/秒懂看瓦特" target="_blank">秒懂看瓦特</a></div>
+<div><a href="/item/秒懂五千年" target="_blank">秒懂五千年</a></div>
+<div><a href="/item/秒懂全视界" target="_blank">秒懂全视界</a></div>
+</dd>
+</dl>
+<dl class="special ">
+<dt><a>特色百科</a></dt>
+<dd><div><a href="/museum/" target="_blank">数字博物馆</a></div>
+<div><a href="/feiyi?fr=dhlfeiyi" target="_blank">非遗百科</a></div>
+<div><a href="https://shushuo.baidu.com/" target="_blank">百度数说</a></div>
+<div><a href="/city/" target="_blank">城市百科</a></div>
+<div><a href="/wikicategory/view?categoryName=恐龙大全" target="_blank">恐龙百科</a></div>
+<div><a href="/wikicategory/view?categoryName=多肉植物" target="_blank">多肉百科</a></div>
+</dd>
+</dl>
+<dl class="user ">
+<dt><a>用户</a></dt>
+<dd>
+<div><a href="/kedou/" target="_blank">蝌蚪团</a></div>
+<div><a href="/event/ranmeng/" target="_blank">燃梦计划</a></div>
+<div><a href="/task/" target="_blank">百科任务</a></div>
+<div><a href="/mall/" target="_blank">百科商城</a></div>
+</dd>
+</dl>
+<dl class="cooperation ">
+<dt><a>权威合作</a></dt>
+<dd>
+<div><a href="/operation/cooperation#joint" target="_blank">合作模式</a></div>
+<div><a href="/operation/cooperation#issue" target="_blank">常见问题</a></div>
+<div><a href="/operation/cooperation#connection" target="_blank">联系方式</a></div>
+</dd>
+</dl>
+<div class="usercenter">
+<div><a href="/usercenter" target="_blank"><em class="cmn-icon cmn-icons cmn-icons_navbar-usercenter"></em>个人中心</a></div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="body-wrapper">
+<div class="before-content">
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" title="添加义项" nslog-type="50000101">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a href="/divideload/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF" title="拆分词条" target="_blank" class="split-icon top-tool-icon" style="display:none;" nslog-type="50000104">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a href="javascript:void(0);" id="j-top-vote" class="top-vote top-tool-icon" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1 >武汉地铁3号线</h1>
+<a href="javascript:;" class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" nslog-type="10003105" target="_blank" href="/view/10812319.htm" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><span class="view-tip-panel">
+<a class="viewTip-icon" href="/subview/71844/10028254.htm" target="_blank" title="同义词">同义词</a>
+<span class="viewTip-fromTitle">武汉轨道交通3号线</span>一般指武汉地铁3号线
+</span>
+<div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">武汉轨道交通3号线全线位于地下，起于沌阳大道，经过6个城区到达宏图大道，是连接汉口、汉阳的骨干线路，也是第一条下穿汉江的地铁线路，穿过武汉经济技术开发区、<a target=_blank href="/item/%E6%B1%89%E9%98%B3%E5%8C%BA/2472047" data-lemmaid="2472047">汉阳区</a>、<a target=_blank href="/item/%E7%A1%9A%E5%8F%A3%E5%8C%BA/10785938" data-lemmaid="10785938">硚口区</a>、<a target=_blank href="/item/%E6%B1%9F%E6%B1%89%E5%8C%BA/3197742" data-lemmaid="3197742">江汉区</a>、<a target=_blank href="/item/%E6%B1%9F%E5%B2%B8%E5%8C%BA/10785945" data-lemmaid="10785945">江岸区</a>、<a target=_blank href="/item/%E4%B8%9C%E8%A5%BF%E6%B9%96%E5%8C%BA/8744654" data-lemmaid="8744654">东西湖区</a>6个城区，2012年03月31日全面开工，于2015年12月28日开通。武汉轨道交通3号线与<a target=_blank href="/item/%E6%AD%A6%E6%B1%89%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A2%E5%8F%B7%E7%BA%BF/3437622" data-lemmaid="3437622">武汉轨道交通2号线</a>、<a target=_blank href="/item/%E6%AD%A6%E6%B1%89%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A4%E5%8F%B7%E7%BA%BF/7377462" data-lemmaid="7377462">武汉轨道交通4号线</a>形成连接武汉三镇汉口，武昌，汉阳的环线。</div><div class="para" label-module="para">2015年02月03日，武汉市十三届人大四次会议在汉口开幕，代市长万勇作政府工作报告时向1000多万市民承诺，牢记“地铁生日”。3号线一期于2015年12月28日顺利建成通车，实现中心城区地铁初步成网。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E6%AD%A6%E6%B1%89%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A3%E5%8F%B7%E7%BA%BF/7383045" data-lemmaid="7383045">武汉轨道交通3号线</a>
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+Wuhan Metro Line 3
+</dd>
+<dt class="basicInfo-item name">别&nbsp;&nbsp;&nbsp;&nbsp;称</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF">武汉地铁3号线</a>
+</dd>
+<dt class="basicInfo-item name">站点个数</dt>
+<dd class="basicInfo-item value">
+24座+二期5座
+</dd>
+<dt class="basicInfo-item name">标识色</dt>
+<dd class="basicInfo-item value">
+归元金
+</dd>
+<dt class="basicInfo-item name">全&nbsp;&nbsp;&nbsp;&nbsp;长</dt>
+<dd class="basicInfo-item value">
+30km
+</dd>
+<dt class="basicInfo-item name">线路走向</dt>
+<dd class="basicInfo-item value">
+沌阳大道站——<a target=_blank href="/item/%E5%AE%8F%E5%9B%BE%E5%A4%A7%E9%81%93%E7%AB%99">宏图大道站</a>
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">运营速度</dt>
+<dd class="basicInfo-item value">
+80km/h
+</dd>
+<dt class="basicInfo-item name">通车时间</dt>
+<dd class="basicInfo-item value">
+2015年12月28日
+</dd>
+<dt class="basicInfo-item name">开工时间</dt>
+<dd class="basicInfo-item value">
+2012年03月31日
+</dd>
+<dt class="basicInfo-item name">所属城市</dt>
+<dd class="basicInfo-item value">
+武汉市
+</dd>
+<dt class="basicInfo-item name">车&nbsp;&nbsp;&nbsp;&nbsp;型</dt>
+<dd class="basicInfo-item value">
+B型车
+</dd>
+<dt class="basicInfo-item name">运营商</dt>
+<dd class="basicInfo-item value">
+武汉地铁集团有限公司
+</dd>
+<dt class="basicInfo-item name">编&nbsp;&nbsp;&nbsp;&nbsp;组</dt>
+<dd class="basicInfo-item value">
+6B
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-4">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">站点介绍</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">概况</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_1">线路走向</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_2">变电站、车型、编组等</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_3">车站施工方法</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_4">总投资</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">建设意义</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">特点</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">建设及施工</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">车站简介</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_1">一、宏图大道站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_2">二、市民之家站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_3">三、后湖大道站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_4">四、兴业路站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_5">五、二七小路站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_6">六、罗家庄站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_7">七、赵家条站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_8">八、惠济二路站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_9">九、香港路站</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_10">十、菱角湖站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_11">十一、范湖站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_12">十二、云飞路站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_13">十三、武汉商务区站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_14">十四、双墩站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_15">十五、宗关站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_16">十六、王家湾站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_17">十七、龙阳村站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_18">十八、陶家岭站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_19">十九、四新大道站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_20">二十、汉阳客运站站</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_21">二十一、三角湖站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_22">二十二、体育中心站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_23">二十三、东风公司站</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_24">二十四、沌阳大道站</a></span>
+</li>
+<li class="level1">
+<span class="index">7</span>
+<span class="text"><a href="#7">通车意义</a></span>
+</li>
+<li class="level1">
+<span class="index">8</span>
+<span class="text"><a href="#8">运营商简介</a></span>
+</li>
+<li class="level1">
+<span class="index">9</span>
+<span class="text"><a href="#9">二期工程</a></span>
+</li>
+</ol>
+
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a name="1" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_1" class="lemma-anchor " ></a>
+<a name="站点介绍" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">武汉地铁3号线</span>站点介绍</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<table log-set-param="table_view" width="-220"><caption>武汉轨道交通3号线站点表<br/>　　</caption><tr><th>站名</th><th>所属区域</th><th>换乘线路</th><th>开通时间</th></tr><tr><td valign="top"><a target=_blank href="/item/%E5%AE%8F%E5%9B%BE%E5%A4%A7%E9%81%93%E7%AB%99">宏图大道站</a></td><td valign="top"><a target=_blank href="/item/%E4%B8%9C%E8%A5%BF%E6%B9%96%E5%8C%BA">东西湖区</a></td><td valign="top">2号线，8号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E5%B8%82%E6%B0%91%E4%B9%8B%E5%AE%B6%E7%AB%99">市民之家站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%9F%E5%B2%B8%E5%8C%BA">江岸区</a></td><td valign="top"></td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E5%90%8E%E6%B9%96%E5%A4%A7%E9%81%93%E7%AB%99">后湖大道站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%9F%E5%B2%B8%E5%8C%BA">江岸区</a></td><td valign="top">21号线（阳逻线）</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E5%85%B4%E4%B8%9A%E8%B7%AF%E7%AB%99">兴业路站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%9F%E5%B2%B8%E5%8C%BA">江岸区</a></td><td valign="top">12号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E4%BA%8C%E4%B8%83%E5%B0%8F%E8%B7%AF%E7%AB%99">二七小路站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%9F%E5%B2%B8%E5%8C%BA">江岸区</a></td><td valign="top">10号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E7%BD%97%E5%AE%B6%E5%BA%84%E7%AB%99">罗家庄站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%9F%E5%B2%B8%E5%8C%BA">江岸区</a></td><td valign="top"></td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E8%B5%B5%E5%AE%B6%E6%9D%A1%E7%AB%99">赵家条站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%9F%E5%B2%B8%E5%8C%BA">江岸区</a></td><td valign="top">8号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E6%83%A0%E6%B5%8E%E4%BA%8C%E8%B7%AF%E7%AB%99">惠济二路站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%9F%E5%B2%B8%E5%8C%BA">江岸区</a></td><td valign="top"></td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E9%A6%99%E6%B8%AF%E8%B7%AF%E7%AB%99">香港路站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%9F%E5%B2%B8%E5%8C%BA">江岸区</a></td><td valign="top">6号线，7号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E8%8F%B1%E8%A7%92%E6%B9%96%E7%AB%99">菱角湖站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%9F%E6%B1%89%E5%8C%BA">江汉区</a></td><td valign="top">13号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E8%8C%83%E6%B9%96%E7%AB%99">范湖站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%9F%E6%B1%89%E5%8C%BA">江汉区</a></td><td valign="top">2号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E4%BA%91%E9%A3%9E%E8%B7%AF%E7%AB%99">云飞路站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%9F%E6%B1%89%E5%8C%BA">江汉区</a></td><td valign="top"></td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E6%AD%A6%E6%B1%89%E5%95%86%E5%8A%A1%E5%8C%BA%E7%AB%99">武汉商务区站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%9F%E6%B1%89%E5%8C%BA">江汉区</a></td><td valign="top">7号线、10号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E5%8F%8C%E5%A2%A9%E7%AB%99">双墩站</a></td><td valign="top"><a target=_blank href="/item/%E7%A1%9A%E5%8F%A3%E5%8C%BA">硚口区</a></td><td valign="top">12号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E5%AE%97%E5%85%B3%E7%AB%99">宗关站</a></td><td valign="top"><a target=_blank href="/item/%E7%A1%9A%E5%8F%A3%E5%8C%BA">硚口区</a></td><td valign="top">1号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E7%8E%8B%E5%AE%B6%E6%B9%BE%E7%AB%99/17608019" data-lemmaid="17608019">王家湾站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%89%E9%98%B3%E5%8C%BA">汉阳区</a></td><td valign="top">4号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E9%BE%99%E9%98%B3%E6%9D%91%E7%AB%99">龙阳村站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%89%E9%98%B3%E5%8C%BA">汉阳区</a></td><td valign="top"></td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E9%99%B6%E5%AE%B6%E5%B2%AD%E7%AB%99">陶家岭站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%89%E9%98%B3%E5%8C%BA">汉阳区</a></td><td valign="top"></td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E5%9B%9B%E6%96%B0%E5%A4%A7%E9%81%93%E7%AB%99">四新大道站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%89%E9%98%B3%E5%8C%BA">汉阳区</a></td><td valign="top">11号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E6%B1%89%E9%98%B3%E5%AE%A2%E8%BF%90%E7%AB%99">汉阳客运站</a></td><td valign="top"><a target=_blank href="/item/%E6%B1%89%E9%98%B3%E5%8C%BA">汉阳区</a></td><td valign="top"></td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E4%B8%89%E8%A7%92%E6%B9%96%E7%AB%99">三角湖站</a></td><td valign="top">武汉开发区</td><td valign="top"></td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83%E7%AB%99">体育中心站</a></td><td valign="top">武汉开发区</td><td valign="top"></td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E4%B8%9C%E9%A3%8E%E5%85%AC%E5%8F%B8%E7%AB%99">东风公司站</a></td><td valign="top">武汉开发区</td><td valign="top">6号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top"><a target=_blank href="/item/%E6%B2%8C%E9%98%B3%E5%A4%A7%E9%81%93%E7%AB%99">沌阳大道站</a></td><td valign="top">武汉开发区</td><td valign="top">车都T1线、17号线</td><td valign="top">2015年12月28日</td></tr><tr><td valign="top" colspan="1" rowspan="1">车城南路站</td><td valign="top" colspan="1" rowspan="1">武汉开发区</td><td valign="top" colspan="1" rowspan="1"></td><td valign="top" colspan="1" rowspan="1"></td></tr><tr><td valign="top" colspan="1" rowspan="1">枫树一路站</td><td valign="top" colspan="1" rowspan="1">武汉开发区</td><td valign="top" colspan="1" rowspan="1">10号线</td><td valign="top" colspan="1" rowspan="1"></td></tr><tr><td valign="top" colspan="1" rowspan="1">枫树四路站</td><td valign="top" colspan="1" rowspan="1">武汉开发区</td><td valign="top" colspan="1" rowspan="1">10号线</td><td valign="top" colspan="1" rowspan="1"></td></tr><tr><td valign="top" colspan="1" rowspan="1">全力二路站</td><td valign="top" colspan="1" rowspan="1">武汉开发区</td><td valign="top" colspan="1" rowspan="1">10号线</td><td valign="top" colspan="1" rowspan="1"></td></tr><tr><td valign="top" colspan="1" rowspan="1">文岭站</td><td valign="top" colspan="1" rowspan="1">武汉开发区</td><td valign="top" colspan="1" rowspan="1"></td><td valign="top" colspan="1" rowspan="1"></td></tr></table><div class="para" label-module="para"><b><b>表格说明</b>：</b>1号线宗关站2014年7月28日开通，3号线宗关站2015年12月28日开通。2号线范湖站2012年12月28日开通，3号线范湖站2015年12月28日开通。</div><div class="anchor-list">
+<a name="2" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_2" class="lemma-anchor " ></a>
+<a name="概况" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">武汉地铁3号线</span>概况</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="2_1" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_2_1" class="lemma-anchor " ></a>
+<a name="线路走向" class="lemma-anchor " ></a>
+<a name="2-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>线路走向</h3>
+</div>
+<div class="para" label-module="para">武汉轨道交通3号线工程由南向北经过武汉市的<a target=_blank href="/item/%E6%AD%A6%E6%B1%89%E7%BB%8F%E6%B5%8E%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91%E5%8C%BA">武汉经济技术开发区</a>、<a target=_blank href="/item/%E6%B1%89%E9%98%B3%E5%8C%BA">汉阳区</a>、<a target=_blank href="/item/%E7%A1%9A%E5%8F%A3%E5%8C%BA">硚口区</a>、<a target=_blank href="/item/%E6%B1%9F%E6%B1%89%E5%8C%BA">江汉区</a>、<a target=_blank href="/item/%E6%B1%9F%E5%B2%B8%E5%8C%BA">江岸区</a>、<a target=_blank href="/item/%E4%B8%9C%E8%A5%BF%E6%B9%96%E5%8C%BA">东西湖区</a>等6个城区。线路从沌阳大道站出发，沿<a target=_blank href="/item/%E4%B8%9C%E9%A3%8E%E5%A4%A7%E9%81%93">东风大道</a>、龙阳大道走行，过<a target=_blank href="/item/%E7%8E%8B%E5%AE%B6%E6%B9%BE">王家湾</a>后，与<a target=_blank href="/item/%E6%B1%9F%E6%B1%89%E4%BA%8C%E6%A1%A5">江汉二桥</a>平行，在下<a class="lemma-album layout-right nslog:10000206" title="3号线线路图"  href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/16152585/d6ca7bcb0a46f21f1e3fc87df7246b600c33ae91?fr=lemma&ct=cover" target="_blank"  style="width:222px;" nslog-type="10000206">
+<div class="album-wrap" style="width:220px;height:165px;">
+<img class="picture" alt="3号线线路图" src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=132a241fa08b87d65442ac1d37082860/d6ca7bcb0a46f21f1e3fc87df7246b600c33ae91.jpg" style="width:220px;height:165px;"/>
+</div>
+<div class="description">
+3号线线路图<span class="number">(3张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+游下穿<a target=_blank href="/item/%E6%B1%89%E6%B1%9F">汉江</a>，上岸后下穿1号线<a target=_blank href="/item/%E5%AE%97%E5%85%B3">宗关</a>车站，过双墩进入<a target=_blank href="/item/%E7%8E%8B%E5%AE%B6%E5%A2%A9CBD">王家墩CBD</a>，经<a target=_blank href="/item/%E8%8C%83%E6%B9%96">范湖</a>、菱角湖公园进入<a target=_blank href="/item/%E5%BB%BA%E8%AE%BE%E5%A4%A7%E9%81%93">建设大道</a>，沿建设大道及建设大道延长线东行，过黄浦大街、二七路后，下穿京广铁路进入后湖，过兴业路、后湖大道后，线路西偏，垂直穿越金桥大道，在市民中心以北设最后1座车站后，出入段线下穿张公堤、从三金潭污水处理厂西侧进入车辆段。线路全长28km，全部为地下线，设车站24座。在武汉市三金潭污水处理厂以北、东西湖大堤以西所围地块设置三金潭车辆段；在三环线以东、龙阳大道以北设置升官渡停车场。在赵家条设控制中心和主变电站各一座，并在<a target=_blank href="/item/%E6%B1%89%E9%98%B3">汉阳</a>王家湾与4号线二期主变电站实现资源共享。</div><div class="anchor-list">
+<a name="2_2" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_2_2" class="lemma-anchor " ></a>
+<a name="变电站、车型、编组等" class="lemma-anchor " ></a>
+<a name="2-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>变电站、车型、编组等</h3>
+</div>
+<div class="para" label-module="para">工程设<a target=_blank href="/item/%E8%B5%B5%E5%AE%B6%E6%9D%A1%E7%AB%99">赵家条站</a>1座110kV主变电站，为室内地面站。工程采用标准B型车，车辆最高运行速度为80公里/小时。列车初期、近期、远期采用6辆编组。全日开行列车初期136对，近期178对，远期248对。运营时间5:00～23:00。</div><div class="anchor-list">
+<a name="2_3" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_2_3" class="lemma-anchor " ></a>
+<a name="车站施工方法" class="lemma-anchor " ></a>
+<a name="2-3" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>车站施工方法</h3>
+</div>
+<div class="para" label-module="para">24座地下车站采用明挖施工，2座地下站采用（半）盖挖法；地下区间隧道采用盾构法；其他过渡段、出入线多采用明挖法施工。工程于2012年03月31日开工，2015年12月28日建成通车。</div><div class="anchor-list">
+<a name="2_4" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_2_4" class="lemma-anchor " ></a>
+<a name="总投资" class="lemma-anchor " ></a>
+<a name="2-4" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>总投资</h3>
+</div>
+<div class="para" label-module="para">工程总投资为173.49亿元，技术经济指标为6.2亿元/正线公里。</div><div class="anchor-list">
+<a name="3" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_3" class="lemma-anchor " ></a>
+<a name="建设意义" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">武汉地铁3号线</span>建设意义</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">3号线一期工程横跨汉江，贯穿汉口、汉阳南北，是第一条连接汉口和汉阳的轨道交通线路，将有效带动王家墩CBD、王家湾商圈、四新地区、后湖居住区、沌口工业组团的发展，对武汉新区开发建设以及三镇均衡发展具有重要的支撑作用。</div>
+<div class="para" label-module="para"><b>武汉地铁“第一环”</b></div>
+<div class="para" label-module="para">武汉市第一条穿<a target=_blank href="/item/%E6%B1%89%E6%B1%9F">汉江</a>地铁和第二条过长江地铁于2009年12月30日开工。2009年12月28日地铁集团与中隧、铁十一局、武汉建工等6家施工企业签订了3号和4号轨道线施工合同。这两条线的建设，刷新<a target=_blank href="/item/%E6%B1%89%E9%98%B3">汉阳</a>还没有轨道交通建设的历史，完工后将形成武汉地铁“第一环”。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/2934349b033b5bb59742ed3e36d3d539b700bc5d?fr=lemma&ct=single" target="_blank"
+		title="3号线施工图" style="width:220px;height:134px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=54799a29f2d3572c62e29bdeba116352/2934349b033b5bb59742ed3e36d3d539b700bc5d.jpg"  alt="3号线施工图" style="width:220px;height:134px;"/>
+</a>
+<span class="description">
+3号线施工图
+</span>
+</div></div>
+<div class="para" label-module="para">3号线是武汉市第一条穿<a target=_blank href="/item/%E6%B1%89%E6%B1%9F">汉江</a>地铁，连接汉口三金潭和<a target=_blank href="/item/%E6%B2%8C%E5%8F%A3">沌口</a>开发区，中途下穿汉江，串起<a target=_blank href="/item/%E6%B1%9F%E5%B2%B8">江岸</a>、<a target=_blank href="/item/%E6%B1%9F%E6%B1%89">江汉</a>、硚口、<a target=_blank href="/item/%E6%B1%89%E9%98%B3">汉阳</a>4个中心城区。全长28公里，全部走地下，设站24座，总投资约173亿元。3号线与武汉轨道交通4号线、武汉轨道交通2号线相扣，将形成武汉地铁“第一环”。</div>
+<div class="para" label-module="para"><b>串联汉口和汉阳，承担1/4过汉江客流</b></div>
+<div class="para" label-module="para">武汉轨道3号线一期的建设具有四大作用。</div>
+<div class="para" label-module="para">一、3号线一期工程沿线规划范围总面积为33.6平方公里，可开发用地为4.7平方公里，占比为14%，主要位于<a target=_blank href="/item/%E6%B1%89%E9%98%B3">汉阳</a>的四新新区、汉口王家墩CBD区域和后湖片区，3号线一期工程可以加快沿线土地开发和利用。</div>
+<div class="para" label-module="para">二、该工程是贯穿长江北岸经济带的一条重要发展轴，贯穿<a target=_blank href="/item/%E6%AD%A6%E6%B1%89%E6%96%B0%E5%8C%BA">武汉新区</a>、<a target=_blank href="/item/%E6%B1%89%E6%B1%9F">汉江</a>、四新与<a target=_blank href="/item/%E6%B2%8C%E5%8F%A3">沌口</a>三大组团，对于武汉新区开发建设以及三镇均衡发展具有重要支撑作用。</div>
+<div class="para" label-module="para">三、该工程串联起沌口经济开发区和<a target=_blank href="/item/%E5%90%8E%E6%B9%96">后湖</a>，对武汉近的开发热点区域——王家墩CBD、四新地区、后湖居住区的发展有很强的带动作用。</div>
+<div class="para" label-module="para">四、解决交通问题的迫切需要。3号线一期工程沿线联系了后湖居住组团、<a target=_blank href="/item/%E5%BB%BA%E8%AE%BE%E5%A4%A7%E9%81%93">建设大道</a><a target=_blank href="/item/%E9%87%91%E8%9E%8D%E8%A1%97">金融街</a>、王家墩CBD、王家湾商业中心、四新组团、十升组团、汉阳客运中心、武汉体育中心、<a target=_blank href="/item/%E6%B2%8C%E5%8F%A3">沌口</a>工业组团等诸多居住区、商业区、对外交通枢纽、城市新区、交通骨干和公交密集区域，是衔接汉口汉阳的一条重要客运交通走廊。预测建成后初期日承担过<a target=_blank href="/item/%E6%B1%89%E6%B1%9F">汉江</a>客运量为22.8万人次，占过汉江公交客流的25.5%，对缓解过汉江交通压力具有重要作用。</div>
+<div class="para" label-module="para">另外，3号线一期工程沿线客流成熟，建设3号线一期工程，可与武汉轨道交通1号线、武汉轨道交通2号线、武汉轨道交通4号线相扣成环，能够尽快形成联系三镇的轨道交通基本骨架网络，有利于轨道交通客流的培育和发展。</div><div class="anchor-list">
+<a name="4" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_4" class="lemma-anchor " ></a>
+<a name="特点" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">武汉地铁3号线</span>特点</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><b>首次穿越汉江，近半车站可换乘</b></div>
+<div class="para" label-module="para">地铁3号线是武汉首条过汉江地铁线路，起于蔡甸区的文岭，经全力三路转向武汉经济开发区，沿东风大道、龙阳大道由南向北走行，经过王家湾，过汉江，进入汉口地区，经过宗关、王家墩CBD、菱角湖，由长江日报路转向建设大道及其延长线，经过香港路、二七路，到达终点三金潭，线路总长39.6公里，设站28座。其中3号线一期工程由沌阳大道站至市民中心站，线路长27.9公里，全地下线路，设车站24座。</div>
+<div class="para" label-module="para">地铁3号线一期工程的换乘车站特别多，这也是本线路的一大特点，24座车站中有14座为换乘站，分别与1、2、4、6、7、8、10、11、12、13、21号线等10条线路换乘。其中位于建设大道与香港路交叉口处的香港路站为武汉市轨道交通线网规划中最早的三线换乘车站，可与6号线、7号线换乘。而由于7号线遇到瓶颈被迫延期，宏图大道站成为了武汉的第一座三线换乘车站，可与2号线（机场线）、8号线换乘。</div>
+<div class="para" label-module="para"><b>一列地铁载1460人，45分钟跑完全程</b></div>
+<div class="para" label-module="para">地铁3号线每列地铁可载1460人，列车平均旅行时速36.2公里，单程运行时间约45.1分钟。在运营初期，运营时间为凌晨5点至晚11点。</div>
+<div class="para" label-module="para">3号线一期24座车站在地下站台边缘均设置屏蔽门，乘客候车时门关闭，列车进站后屏蔽门与列车门同步开启、关闭。这样设计旨在减少车站与隧道区间冷热气流的交换，降低运营能耗，同时保证乘客候车安全。</div>
+<div class="para" label-module="para">3号线一期工程是武汉轨道线网中衔接汉阳、汉口一条重要的镇间骨架线路，也是承担武汉中心城区跨汉江客运交通的重要通道。根据预测，到2018年，地铁3号线一期日客流量将达46.9万人次，其中过汉江日客流量为22.3万人次，3号线承担过汉江公交客流的比重达到26.5%，相当于15条过江公交线路的运量。地铁3号线开通后，知音桥的交通压力将有望缓解。</div>
+<div class="para" label-module="para"><b>8个特色站</b></div>
+<div class="para" label-module="para">武汉地铁3号线一期全线设置了8个特色站：东风公司站主题为“运动之光”，四新大道站主题为“水景新韵”，武汉商务区站主题为“璀璨星河”，香港路站主题为“寻梦风华”，赵家条站主题为“向往温暖”，二七小路站主题为“流金岁月”，市民之家站主题为“风畅之家”，宏图大道站主题为“百业宏图”，同时部分车站设置了艺术座椅、艺术橱窗。<sup class="sup--normal" data-sup="1" data-ctrmap=":1,">
+[1]</sup><a class="sup-anchor" name="ref_[1]_11255602">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="5" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_5" class="lemma-anchor " ></a>
+<a name="建设及施工" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">武汉地铁3号线</span>建设及施工</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><b>施工致建设大道地陷</b></div>
+<div class="para" label-module="para">2015年2月10日晚7时许，汉口建设大道黄孝河路口突发地陷，因发现及时，无车辆和行人陷入。<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_11255602">&nbsp;</a>
+</div>
+<div class="para" label-module="para">据目击者介绍，地陷具体位置位于建设大道国美家乐福附近，长航医院门口。路面已成V字形，且在不断下陷中，截至当天晚9时许，已形成面积上百平方米的漏斗状，附近的信号灯和绿化带都随之歪斜。</div>
+<div class="para" label-module="para">事发后，交警及时赶到疏散人群，并将现场道路全部封锁。为安全起见，路面下的燃气管道阀门被关闭。据交警介绍，事发路段是汉口闹市区，地陷事件对交通影响较大。目前交管部门已制定交通疏导方案，公交部门也制定了绕行方案，调整了22条公交线路在该路段的停靠站点。</div>
+<div class="para" label-module="para">记者从地铁集团获悉，事发当日下午5时许，位于该处的武汉市轨道交通3号线一期工程惠济二路至香港路站盾构区间在施工过程中发生涌水、涌砂险情，引发地面建设大道与黄孝河路交会处局部路面沉降。</div>
+<div class="para" label-module="para">事发后，相关专家及技术人员第一时间赶赴现场，研究确定抢险措施：在塌陷点地面120米范围内实行交通管制，禁止车辆、行人通行；同时采取隧道内封堵和地面钻孔注水等措施，控制地面沉降，防止次生灾害发生。</div>
+<div class="para" label-module="para">“没有什么大的危险。”著名勘察大师范士凯在事发现场查看后介绍，从目前的地表情况来看，事故影响范围仅限于周边100米区域，不会对周边的高层建筑物造成沉降影响，因为这些建筑都有很深的地下桩基。</div>
+<div class="para" label-module="para">武汉地铁集团相关负责人说，下午5点到今天凌晨，对事发点100米范围内进行每小时一次的数据监测，数据显示，周边的沉降变化已趋于稳定。</div>
+<div class="para" label-module="para">范士凯建议，施工方首先应该采取技术措施，通过地下堵漏和地面注水两方面措施，平衡地表，第一时间控制住事发区域及周边地表不再沉降。至于具体的事发原因，还需要进一步的技术调查。</div>
+<div class="para" label-module="para">事故发生后，武汉市委、市政府高度重视，武汉市长万勇、副市长张光清、秘书长郭胜伟及市各相关部门负责人赶赴现场了解事故情况，并在现场召开会议研究处置措施。</div>
+<div class="para" label-module="para">万勇要求，迅速查明事故原因，抓紧抢险；采取适度的交通管制措施，确保车辆、行人和施工人员安全；交通管理部门要加强交通组织，采取分流措施，引导交通秩序；要加强事故现场及周边的监测工作；采取有效措施防止次生灾害发生，特别是要做好地下水、电、气等管网的安全监控工作。</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" title="建设大道地陷"  href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/23727716/060828381f30e924d35503324a086e061c95f7c4?fr=lemma&ct=cover" target="_blank"  style="width:222px;" nslog-type="10000206">
+<div class="album-wrap" style="width:220px;height:146px;">
+<img class="picture" alt="建设大道地陷" src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=b2ff62a6d743ad4ba22e41c2b2035a89/060828381f30e924d35503324a086e061c95f7c4.jpg" style="width:220px;height:146px;"/>
+</div>
+<div class="description">
+建设大道地陷<span class="number">(2张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+</div>
+<div class="para" label-module="para"><b>首批列车到汉</b></div>
+<div class="para" label-module="para">2015年3月18日，轨道交通3号线一期工程轨道车顺利牵引进入三金潭车辆段库内。同月25日，首批两列车由长春运抵武汉，分别停放于三金潭车辆段和常青车辆段。截止3月底，已有6列车上线生产，其中2列车进入调试工序，4列车正在车辆总装。</div>
+<div class="para" label-module="para">3号线一期工程共配备29列B型车，采用4辆动车2列拖车的6节编组；车体长19m，宽2.8m，高3.8m，全列车长度约118m，每列车定员载客约1440人，最高载员约2000人，最高运行速度80km/h。车辆由长春轨道客车股份有限公司和武汉北车长客轨道装备有限公司共同制造。该线路车辆以线路色“归元金”为点缀，采用大断面中空铝型材车体、列车自动驾驶系统、电动内藏滑动门、LCD长条屏动态地图、单元式通风空调等多项先进技术，使车辆更加安全、舒适。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/42a98226cffc1e17dc121c324c90f603738de900?fr=lemma&ct=single" target="_blank"
+		title="3号线列车" style="width:220px;height:146px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=82af22a7a2c27d1ea1263cc62bd4adaf/42a98226cffc1e17dc121c324c90f603738de900.jpg"  alt="3号线列车" style="width:220px;height:146px;"/>
+</a>
+<span class="description">
+3号线列车
+<sup>[3]</sup>
+<a name="ref_[3]_"></a>
+</span>
+</div></div>
+<div class="para" label-module="para"><b>香惠区间贯通</b></div>
+<div class="para" label-module="para">2015年7月中旬，武汉轨道交通3号线一期工程香港路——惠济二路区间隧道右线盾构机顺利出洞，标志着香惠区间双线隧道全部贯通。</div>
+<div class="para" label-module="para">香惠区间位于建设大道主干道上，区间原为盾构施工，2015年2月10日该区间建设大道与黄孝河路交汇处发生沉降事故后，为确保项目建设工期，建设方及施工方大胆尝试，创新恢复施工方案，在既有右线隧道南侧重新施做一条隧道，在惠济路站端头设置一段明挖段与部分既有右线盾构隧道衔接。新建右线盾构隧道从香港路站始发，在明挖段接收。</div>
+<div class="para" label-module="para">恢复方案确定后，地铁集团调配精干施工队伍，强化现场项目管理，合理安排施工计划，科学制定技术方案，克服施工现场基坑内管线众多、场地狭小、设备集中、材料转运难度大、交叉作业等重重困难，经过近5个月的努力， 7月8日香惠区间右线明挖段主体顺利封顶，7月15日右线盾构段盾构机顺利出洞，区间双线隧道全部贯通，为下一步的铺轨工作奠定了良好基础。</div><div class="anchor-list">
+<a name="6" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6" class="lemma-anchor " ></a>
+<a name="车站简介" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">武汉地铁3号线</span>车站简介</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="6_1" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_1" class="lemma-anchor " ></a>
+<a name="一、宏图大道站" class="lemma-anchor " ></a>
+<a name="6-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>一、宏图大道站</h3>
+</div>
+<div class="para" label-module="para">本站为地下二层双岛式车站，可与2号线、8号线换乘，位于宏图路与金银潭大道交叉口，共设有12个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/4bed2e738bd4b31cb689758d8ad6277f9e2ff84b?fr=lemma&ct=single" target="_blank"
+		title="宏图大道站" style="width:220px;height:164px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=a6a3000138fae6cd08b4ac633fb30f9e/4bed2e738bd4b31cb689758d8ad6277f9e2ff84b.jpg"  alt="宏图大道站" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+宏图大道站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_2" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_2" class="lemma-anchor " ></a>
+<a name="二、市民之家站" class="lemma-anchor " ></a>
+<a name="6-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>二、市民之家站</h3>
+</div>
+<div class="para" label-module="para">本站为地下二层岛式车站，位于兆瑞大道与金桥大道交叉口，共设有7个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/77c6a7efce1b9d1651d57a57fedeb48f8c5464f2?fr=lemma&ct=single" target="_blank"
+		title="市民之家站" style="width:220px;height:164px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=96dcef81e450352ab561220a6343fb1a/77c6a7efce1b9d1651d57a57fedeb48f8c5464f2.jpg"  alt="市民之家站" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+市民之家站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_3" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_3" class="lemma-anchor " ></a>
+<a name="三、后湖大道站" class="lemma-anchor " ></a>
+<a name="6-3" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>三、后湖大道站</h3>
+</div>
+<div class="para" label-module="para">本站为地下二层岛式车站，可与21号线（阳逻线）换乘，位于建设大道与后湖大道交叉口，共设有14个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/f7246b600c3387448caecc4a5c0fd9f9d72aa099?fr=lemma&ct=single" target="_blank"
+		title="后湖大道站" style="width:220px;height:160px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=605efe3e1230e924cba49b337c086e66/f7246b600c3387448caecc4a5c0fd9f9d72aa099.jpg"  alt="后湖大道站" style="width:220px;height:160px;"/>
+</a>
+<span class="description">
+后湖大道站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_4" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_4" class="lemma-anchor " ></a>
+<a name="四、兴业路站" class="lemma-anchor " ></a>
+<a name="6-4" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>四、兴业路站</h3>
+</div>
+<div class="para" label-module="para">本站位于建设大道与兴业路交叉口，共设有10个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/023b5bb5c9ea15ce4331033fbb003af33a87b22d?fr=lemma&ct=single" target="_blank"
+		title="兴业路站" style="width:220px;height:165px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=8731812a1cdfa9ecf92e511552d1f754/023b5bb5c9ea15ce4331033fbb003af33a87b22d.jpg"  alt="兴业路站" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+兴业路站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_5" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_5" class="lemma-anchor " ></a>
+<a name="五、二七小路站" class="lemma-anchor " ></a>
+<a name="6-5" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>五、二七小路站</h3>
+</div>
+<div class="para" label-module="para">本站为地下二层岛式车站，位于建设大道（二七小路）与二环线（二七路）交叉口，共设有4个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/738b4710b912c8fc265714fbf1039245d6882164?fr=lemma&ct=single" target="_blank"
+		title="二七小路站" style="width:220px;height:163px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=c86c37f89425bc312f5d069a6ede8de7/738b4710b912c8fc265714fbf1039245d6882164.jpg"  alt="二七小路站" style="width:220px;height:163px;"/>
+</a>
+<span class="description">
+二七小路站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_6" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_6" class="lemma-anchor " ></a>
+<a name="六、罗家庄站" class="lemma-anchor " ></a>
+<a name="6-6" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>六、罗家庄站</h3>
+</div>
+<div class="para" label-module="para">本站位于建设大道与韦桑路交叉口，共设有4个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/fcfaaf51f3deb48f96d7ffe6fd1f3a292df5784f?fr=lemma&ct=single" target="_blank"
+		title="罗家庄站" style="width:220px;height:165px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=dcdf7b305e43fbf2c12ca121807eca1e/fcfaaf51f3deb48f96d7ffe6fd1f3a292df5784f.jpg"  alt="罗家庄站" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+罗家庄站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_7" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_7" class="lemma-anchor " ></a>
+<a name="七、赵家条站" class="lemma-anchor " ></a>
+<a name="6-7" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>七、赵家条站</h3>
+</div>
+<div class="para" label-module="para">本站为地下二层岛式车站，可与8号线换乘，位于建设大道与武汉大道交叉口，共设有7个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/d1a20cf431adcbef8dbc203ea1af2edda3cc9f7a?fr=lemma&ct=single" target="_blank"
+		title="赵家条站" style="width:220px;height:164px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=2c7f10c30746f21fcd345951c6256b31/d1a20cf431adcbef8dbc203ea1af2edda3cc9f7a.jpg"  alt="赵家条站" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+赵家条站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_8" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_8" class="lemma-anchor " ></a>
+<a name="八、惠济二路站" class="lemma-anchor " ></a>
+<a name="6-8" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>八、惠济二路站</h3>
+</div>
+<div class="para" label-module="para">本站位于建设大道，共设有9个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/e824b899a9014c08c8e3769d077b02087bf4f42a?fr=lemma&ct=single" target="_blank"
+		title="惠济二路站" style="width:220px;height:162px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=0baeba1b7ef082022992963d7bfafb8a/e824b899a9014c08c8e3769d077b02087bf4f42a.jpg"  alt="惠济二路站" style="width:220px;height:162px;"/>
+</a>
+<span class="description">
+惠济二路站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_9" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_9" class="lemma-anchor " ></a>
+<a name="九、香港路站" class="lemma-anchor " ></a>
+<a name="6-9" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>九、香港路站</h3>
+</div>
+<div class="para" label-module="para">本站为地下叠岛式车站，可与6号线、7号线换乘，位于建设大道与香港路交叉口，共设有8个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/f636afc379310a55324787ccba4543a9822610a2?fr=lemma&ct=single" target="_blank"
+		title="香港路站" style="width:220px;height:164px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=384ca4f4cecec3fd8f3ea077e688d4b6/f636afc379310a55324787ccba4543a9822610a2.jpg"  alt="香港路站" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+香港路站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_10" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_10" class="lemma-anchor " ></a>
+<a name="十、菱角湖站" class="lemma-anchor " ></a>
+<a name="6-10" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>十、菱角湖站</h3>
+</div>
+<div class="para" label-module="para">本站位于长江日报路，共设有4个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/2cf5e0fe9925bc317db358a053df8db1cb13701f?fr=lemma&ct=single" target="_blank"
+		title="菱角湖站" style="width:220px;height:160px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=44eb60df9c2397ddd2799f066983b216/2cf5e0fe9925bc317db358a053df8db1cb13701f.jpg"  alt="菱角湖站" style="width:220px;height:160px;"/>
+</a>
+<span class="description">
+菱角湖站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_11" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_11" class="lemma-anchor " ></a>
+<a name="十一、范湖站" class="lemma-anchor " ></a>
+<a name="6-11" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>十一、范湖站</h3>
+</div>
+<div class="para" label-module="para">本站为地下三层岛式车站，可与2号线换乘，位于马场角小路（常青路）与青年路交叉口，共设有9个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/91529822720e0cf3115f16c30746f21fbe09aa5a?fr=lemma&ct=single" target="_blank"
+		title="范湖站" style="width:220px;height:162px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=1c2127e523738bd4c021b533918a876c/91529822720e0cf3115f16c30746f21fbe09aa5a.jpg"  alt="范湖站" style="width:220px;height:162px;"/>
+</a>
+<span class="description">
+范湖站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_12" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_12" class="lemma-anchor " ></a>
+<a name="十二、云飞路站" class="lemma-anchor " ></a>
+<a name="6-12" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>十二、云飞路站</h3>
+</div>
+<div class="para" label-module="para">本站位于云飞路与清江路交叉口，共设有5个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/060828381f30e92419e0c40941086e061d95f746?fr=lemma&ct=single" target="_blank"
+		title="云飞路站" style="width:220px;height:162px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=784aa59ddc43ad4ba22e41c2b2025a89/060828381f30e92419e0c40941086e061d95f746.jpg"  alt="云飞路站" style="width:220px;height:162px;"/>
+</a>
+<span class="description">
+云飞路站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_13" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_13" class="lemma-anchor " ></a>
+<a name="十三、武汉商务区站" class="lemma-anchor " ></a>
+<a name="6-13" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>十三、武汉商务区站</h3>
+</div>
+<div class="para" label-module="para">本站为地下二层侧式车站，可与7号线换乘，位于<a target=_blank href="/item/%E6%AD%A6%E6%B1%89%E4%B8%AD%E5%BF%83%E5%A4%A7%E5%8E%A6/17237467" data-lemmaid="17237467">武汉中心大厦</a>，共设有14个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/b17eca8065380cd77f11f9d5ac44ad34598281ff?fr=lemma&ct=single" target="_blank"
+		title="武汉商务区站" style="width:220px;height:164px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=ad24032a424a20a4351e3bc5a0529847/b17eca8065380cd77f11f9d5ac44ad34598281ff.jpg"  alt="武汉商务区站" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+武汉商务区站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_14" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_14" class="lemma-anchor " ></a>
+<a name="十四、双墩站" class="lemma-anchor " ></a>
+<a name="6-14" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>十四、双墩站</h3>
+</div>
+<div class="para" label-module="para">本站位于建设大道与汉西路交叉口，共设有5个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/fc1f4134970a304e1ea2fbc2dcc8a786c9175c01?fr=lemma&ct=single" target="_blank"
+		title="双墩站" style="width:220px;height:161px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=a0ed21cad862853596e0d523a0ee76f2/fc1f4134970a304e1ea2fbc2dcc8a786c9175c01.jpg"  alt="双墩站" style="width:220px;height:161px;"/>
+</a>
+<span class="description">
+双墩站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_15" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_15" class="lemma-anchor " ></a>
+<a name="十五、宗关站" class="lemma-anchor " ></a>
+<a name="6-15" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>十五、宗关站</h3>
+</div>
+<div class="para" label-module="para">本站为地下三层岛式车站，可与1号线换乘，位于二环线与解放大道交叉口，共设有7个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/c2cec3fdfc039245847bba378a94a4c27d1e253f?fr=lemma&ct=single" target="_blank"
+		title="宗关站" style="width:220px;height:164px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=0e935aa053df8db1b82e7b663922dddb/c2cec3fdfc039245847bba378a94a4c27d1e253f.jpg"  alt="宗关站" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+宗关站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_16" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_16" class="lemma-anchor " ></a>
+<a name="十六、王家湾站" class="lemma-anchor " ></a>
+<a name="6-16" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>十六、王家湾站</h3>
+</div>
+<div class="para" label-module="para">本站为地下二层侧式车站，可与4号线换乘，位于二环线与汉阳大道交叉口，共设有12个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/f9dcd100baa1cd113b002818b412c8fcc3ce2d57?fr=lemma&ct=single" target="_blank"
+		title="王家湾站" style="width:220px;height:165px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=c5dffbe6fd1f3a295ec8d2cca924bce3/f9dcd100baa1cd113b002818b412c8fcc3ce2d57.jpg"  alt="王家湾站" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+王家湾站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_17" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_17" class="lemma-anchor " ></a>
+<a name="十七、龙阳村站" class="lemma-anchor " ></a>
+<a name="6-17" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>十七、龙阳村站</h3>
+</div>
+<div class="para" label-module="para">本站位于二环线与蟠龙路（十升二路）交叉口，共设有4个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/54fbb2fb43166d22f39a4fac4b2309f79052d21d?fr=lemma&ct=single" target="_blank"
+		title="龙阳村站" style="width:220px;height:164px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=cf5dc67f3412b31bc36cca2bb6193674/54fbb2fb43166d22f39a4fac4b2309f79052d21d.jpg"  alt="龙阳村站" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+龙阳村站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_18" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_18" class="lemma-anchor " ></a>
+<a name="十八、陶家岭站" class="lemma-anchor " ></a>
+<a name="6-18" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>十八、陶家岭站</h3>
+</div>
+<div class="para" label-module="para">本站位于龙阳大道与陶家岭路交叉口，共设有5个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/6d81800a19d8bc3e812f43f28f8ba61ea8d345e6?fr=lemma&ct=single" target="_blank"
+		title="陶家岭站" style="width:220px;height:165px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=31f349092c3fb80e08d166d506d12ffb/6d81800a19d8bc3e812f43f28f8ba61ea8d345e6.jpg"  alt="陶家岭站" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+陶家岭站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_19" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_19" class="lemma-anchor " ></a>
+<a name="十九、四新大道站" class="lemma-anchor " ></a>
+<a name="6-19" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>十九、四新大道站</h3>
+</div>
+<div class="para" label-module="para">本站为地下二层岛式车站，位于龙阳大道与四新大道交叉口，共设有4个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/42166d224f4a20a4fb5a79ff9d529822720ed046?fr=lemma&ct=single" target="_blank"
+		title="四新大道站" style="width:220px;height:163px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=846bc313bd51f819f5250448eab44a76/42166d224f4a20a4fb5a79ff9d529822720ed046.jpg"  alt="四新大道站" style="width:220px;height:163px;"/>
+</a>
+<span class="description">
+四新大道站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_20" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_20" class="lemma-anchor " ></a>
+<a name="二十、汉阳客运站站" class="lemma-anchor " ></a>
+<a name="6-20" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>二十、汉阳客运站站</h3>
+</div>
+<div class="para" label-module="para">本站位于龙阳大道与四新南路（芳草一路）交叉口，共设有5个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/267f9e2f07082838839e992cb599a9014c08f173?fr=lemma&ct=single" target="_blank"
+		title="汉阳客运站站" style="width:220px;height:164px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=938a32afd433c895a27e9f79e1127397/267f9e2f07082838839e992cb599a9014c08f173.jpg"  alt="汉阳客运站站" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+汉阳客运站站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_21" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_21" class="lemma-anchor " ></a>
+<a name="二十一、三角湖站" class="lemma-anchor " ></a>
+<a name="6-21" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>二十一、三角湖站</h3>
+</div>
+<div class="para" label-module="para">本站位于东风大道与太子湖北路交叉口，共设有4个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/43a7d933c895d143c079a01b7ef082025aaf07fe?fr=lemma&ct=single" target="_blank"
+		title="三角湖站" style="width:220px;height:165px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=bcfad68ec4177f3e1434fb0f40cf3bb9/43a7d933c895d143c079a01b7ef082025aaf07fe.jpg"  alt="三角湖站" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+三角湖站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_22" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_22" class="lemma-anchor " ></a>
+<a name="二十二、体育中心站" class="lemma-anchor " ></a>
+<a name="6-22" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>二十二、体育中心站</h3>
+</div>
+<div class="para" label-module="para">本站为地下二层岛式车站，位于东风大道与三角湖路（太子湖路）交叉口，共设有4个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/9213b07eca806538e6bce02b9adda144ad3482b0?fr=lemma&ct=single" target="_blank"
+		title="体育中心站" style="width:220px;height:163px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=5890321e60224f4a5399741139f79044/9213b07eca806538e6bce02b9adda144ad3482b0.jpg"  alt="体育中心站" style="width:220px;height:163px;"/>
+</a>
+<span class="description">
+体育中心站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_23" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_23" class="lemma-anchor " ></a>
+<a name="二十三、东风公司站" class="lemma-anchor " ></a>
+<a name="6-23" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>二十三、东风公司站</h3>
+</div>
+<div class="para" label-module="para">本站为地下二层岛式车站，可与6号线换乘，位于东风大道与车城西路（车城北路）交叉口，共设有10个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/377adab44aed2e73196bc2148a01a18b87d6fa0c?fr=lemma&ct=single" target="_blank"
+		title="东风公司站" style="width:220px;height:164px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=9b9bda109a2bd40746c7d4ff4b889e9c/377adab44aed2e73196bc2148a01a18b87d6fa0c.jpg"  alt="东风公司站" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+东风公司站
+</span>
+</div></div><div class="anchor-list">
+<a name="6_24" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_6_24" class="lemma-anchor " ></a>
+<a name="二十四、沌阳大道站" class="lemma-anchor " ></a>
+<a name="6-24" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">武汉地铁3号线</span>二十四、沌阳大道站</h3>
+</div>
+<div class="para" label-module="para">本站为地下二层岛式车站，位于东风大道与沌阳大道交叉口，共设有5个出入口。<div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/500fd9f9d72a6059f41ea6222534349b033bbaf8?fr=lemma&ct=single" target="_blank"
+		title="沌阳大道站" style="width:220px;height:165px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=9d3b1c0e10950a7b713549c63ad1625c/500fd9f9d72a6059f41ea6222534349b033bbaf8.jpg"  alt="沌阳大道站" style="width:220px;height:165px;"/>
+</a>
+<span class="description">
+沌阳大道站
+</span>
+</div></div><div class="anchor-list">
+<a name="7" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_7" class="lemma-anchor " ></a>
+<a name="通车意义" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">武汉地铁3号线</span>通车意义</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="7" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">2015年12月28日上午8时，中铁十一局电务公司承建标段内的武汉地铁三号线东风公司地铁站C出入口张灯结彩，一片喜庆之气，武汉地铁3号线开通仪式在此隆重举行。9时15分，武汉市市委书记阮成发致辞并宣布武汉地铁3号线一期工程正式开通运营，标志着电务公司武汉地铁3号线项目一年来的努力终于“开花结果”。</div>
+<div class="para" label-module="para">3号线一期是武汉第4条开通的轨道交通线路，跨越汉江连接汉口和汉阳。至此武汉三镇地铁互通成环，连为一体。武汉三镇间的联系日益紧密，而3号线就是促成三镇地铁成环的最后一环。</div><div class="anchor-list">
+<a name="8" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_8" class="lemma-anchor " ></a>
+<a name="运营商简介" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">武汉地铁3号线</span>运营商简介</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="8" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">武汉轨道交通前期研究从1984年开始，2000年10月，武汉市轨道交通有限公司成立，武汉轨道交通建设正式开启。2007年，在原武汉市轨道交通有限公司的基础上，<a target=_blank href="/item/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E9%9B%86%E5%9B%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/4640599" data-lemmaid="4640599">武汉地铁集团有限公司</a>成立，经政府授权负责武汉轨道交通的建设、运营、管理和融资。</div><div class="anchor-list">
+<a name="9" class="lemma-anchor para-title" ></a>
+<a name="sub11255602_9" class="lemma-anchor " ></a>
+<a name="二期工程" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">武汉地铁3号线</span>二期工程</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="9" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">规划3号线二期工程从文岭站至沌阳大道站，已随着武汉市轨道交通第二轮建设计划批复，现阶段初步方案拟从3号线一期工程终点沌阳大道站继续沿东风大道向南延伸至知音湖大道后拐向北，沿知音湖大道至文岭。</div>
+<div class="para" label-module="para">关于3号线二期究竟何时开工，武汉地铁集团、武汉开发区（汉南区）与蔡甸区正在协商中。根据蔡甸区2018年初的政府工作报告，蔡甸区计划于2018年力争开工3号线二期工程。</div>
+<div class="anchor-list">
+<a name="a" class="lemma-anchor a" ></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077?fr=lemma" target="_blank" nslog-type="10000204">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1 " id="reference-[1]-11255602-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor"  name="refIndex_1_11255602" id="refIndex_1_11255602" title="向上跳转" href="#ref_[1]_11255602">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13024077/b651iZ9Nwh2aEoa3bQSN5WHDqF9hYjG9SM19VO9mV02hmytNtzBJQ9dBVFFPTmieczH52BW4O3PUit-WbpV6PfjjXKf1tPrf5a3qnomxLN6glQ" target="_blank" class="text">武汉地铁3号线年底通车 8大“高颜值”站点可赏美景<span class="linkout">&nbsp;</span></a>
+<span class="site">．网易新闻</span><span>&#91;引用日期2015-10-24&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[2]-11255602-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor"  name="refIndex_2_11255602" id="refIndex_2_11255602" title="向上跳转" href="#ref_[2]_11255602">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13024077/9190qEBXb_6X1dtGHoug27bjX53Du8MHEdPBf4ikrpc3qxgkXfSWNoyfMTrlekBU9O9manlkaHzG5CAgpyvGalhibV3b1VL4yRDb5SafJPORCGbYMUJFCe1UGSRKD2F9oQ" target="_blank" class="text">汉口黄孝河路突发地陷 地铁3号线施工中发生险情<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪湖北</span><span>．2015-2-11</span><span>&#91;引用日期2015-07-29&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[3]-11255602-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor"  name="refIndex_3_11255602" id="refIndex_3_11255602" title="向上跳转" href="#ref_[3]_11255602">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13024077/6344gYgYksnCv9e-cMBfUP7wFulDpXrWiauiONoYSVzUDS-X35VgrZor3P1B7oc66FErL3Jar3_Ruv-WZ1TTF-fB-oCNwhuU1ogjo40yfrA_iCfA4BsEoN3je-7WijyYVinkM9rF_tx3KE-PJ-deSr-E-JN8wGDYnIbqiKEHNruybISLMKvrnTJ-4jKhSEqY5EQs2M2KsLPGq0L8mxA" target="_blank" class="text">3号线一期工程车辆首批2列车到汉<span class="linkout">&nbsp;</span></a>
+<span class="site">．武汉地铁集团</span><span>．2015-03-31</span><span>&#91;引用日期2015-07-29&#93;</span></li></ul>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+社会
+</span>
+，<span class="taglist">
+交通
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077/0/f603918fa0ec08fa034ef79154ee3d6d55fbdabe?fr=lemma&amp;ct=single" target="_blank" nslog-type="10002401">
+<img src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=837a62d89182d158bb825eb7b8317ee5/f603918fa0ec08fa034ef79154ee3d6d55fbdabe.jpg" />
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>武汉地铁3号线图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="13024077" data-lemmaTitle="武汉地铁3号线"></div><div class="lemmaWgt-sideRecommend">
+<a name="zhixinWrap" class="qnAnchor"></a>
+<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="13024077">
+</div>
+<form id="zhixinErrorForm" class="hidden" action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" target="zhixinSubErr" method="post">
+<input class="js-url" name="fb_html_url" type="hidden" />
+<input class="js-query" name="fb_query" type="hidden" />
+<input class="js-title" name="fb_card_title" type="hidden" />
+<input class="js-content" name="fb_content" type="hidden" />
+<input class="js-souceId" name="fb_source_id" type="hidden" />
+</form>
+<iframe id="zhixinSubErr" name="zhixinSubErr" style="display:none" frameborder="0"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description ">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：26次<a href="/historylist/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF/13024077" class="nslog:1021" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="11995734" title="查看此用户资料" target="_blank" href="/usercenter/userpage?uname=yanlis&from=lemma"
+                    nslog-type="1022">yanlis</a><span class="j-modified-time" style="display:none">（2019-07-02）</span>
+</span>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#1" class="title-link">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">站点介绍</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#2" class="title-link">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">概况</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#2_1" class="title-link">
+<span class="text">
+<span class="title-index">2.1</span>
+<span class="title-link" nslog-type="10002802">线路走向</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#2_2" class="title-link">
+<span class="text">
+<span class="title-index">2.2</span>
+<span class="title-link" nslog-type="10002802">变电站、车型、编组等</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#2_3" class="title-link">
+<span class="text">
+<span class="title-index">2.3</span>
+<span class="title-link" nslog-type="10002802">车站施工方法</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#2_4" class="title-link">
+<span class="text">
+<span class="title-index">2.4</span>
+<span class="title-link" nslog-type="10002802">总投资</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#3" class="title-link">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">建设意义</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#4" class="title-link">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">特点</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#5" class="title-link">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">建设及施工</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#6" class="title-link">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">车站简介</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#6_1" class="title-link">
+<span class="text">
+<span class="title-index">6.1</span>
+<span class="title-link" nslog-type="10002802">一、宏图大道站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_2" class="title-link">
+<span class="text">
+<span class="title-index">6.2</span>
+<span class="title-link" nslog-type="10002802">二、市民之家站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_3" class="title-link">
+<span class="text">
+<span class="title-index">6.3</span>
+<span class="title-link" nslog-type="10002802">三、后湖大道站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_4" class="title-link">
+<span class="text">
+<span class="title-index">6.4</span>
+<span class="title-link" nslog-type="10002802">四、兴业路站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_5" class="title-link">
+<span class="text">
+<span class="title-index">6.5</span>
+<span class="title-link" nslog-type="10002802">五、二七小路站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_6" class="title-link">
+<span class="text">
+<span class="title-index">6.6</span>
+<span class="title-link" nslog-type="10002802">六、罗家庄站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_7" class="title-link">
+<span class="text">
+<span class="title-index">6.7</span>
+<span class="title-link" nslog-type="10002802">七、赵家条站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_8" class="title-link">
+<span class="text">
+<span class="title-index">6.8</span>
+<span class="title-link" nslog-type="10002802">八、惠济二路站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_9" class="title-link">
+<span class="text">
+<span class="title-index">6.9</span>
+<span class="title-link" nslog-type="10002802">九、香港路站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_10" class="title-link">
+<span class="text">
+<span class="title-index">6.10</span>
+<span class="title-link" nslog-type="10002802">十、菱角湖站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_11" class="title-link">
+<span class="text">
+<span class="title-index">6.11</span>
+<span class="title-link" nslog-type="10002802">十一、范湖站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_12" class="title-link">
+<span class="text">
+<span class="title-index">6.12</span>
+<span class="title-link" nslog-type="10002802">十二、云飞路站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_13" class="title-link">
+<span class="text">
+<span class="title-index">6.13</span>
+<span class="title-link" nslog-type="10002802">十三、武汉商务区站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_14" class="title-link">
+<span class="text">
+<span class="title-index">6.14</span>
+<span class="title-link" nslog-type="10002802">十四、双墩站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_15" class="title-link">
+<span class="text">
+<span class="title-index">6.15</span>
+<span class="title-link" nslog-type="10002802">十五、宗关站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_16" class="title-link">
+<span class="text">
+<span class="title-index">6.16</span>
+<span class="title-link" nslog-type="10002802">十六、王家湾站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_17" class="title-link">
+<span class="text">
+<span class="title-index">6.17</span>
+<span class="title-link" nslog-type="10002802">十七、龙阳村站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_18" class="title-link">
+<span class="text">
+<span class="title-index">6.18</span>
+<span class="title-link" nslog-type="10002802">十八、陶家岭站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_19" class="title-link">
+<span class="text">
+<span class="title-index">6.19</span>
+<span class="title-link" nslog-type="10002802">十九、四新大道站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_20" class="title-link">
+<span class="text">
+<span class="title-index">6.20</span>
+<span class="title-link" nslog-type="10002802">二十、汉阳客运站站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_21" class="title-link">
+<span class="text">
+<span class="title-index">6.21</span>
+<span class="title-link" nslog-type="10002802">二十一、三角湖站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_22" class="title-link">
+<span class="text">
+<span class="title-index">6.22</span>
+<span class="title-link" nslog-type="10002802">二十二、体育中心站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_23" class="title-link">
+<span class="text">
+<span class="title-index">6.23</span>
+<span class="title-link" nslog-type="10002802">二十三、东风公司站</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_24" class="title-link">
+<span class="text">
+<span class="title-index">6.24</span>
+<span class="title-link" nslog-type="10002802">二十四、沌阳大道站</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#7" class="title-link">
+<span class="text">
+<span class="title-index">7</span>
+<span class="title-link" nslog-type="10002802">通车意义</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#8" class="title-link">
+<span class="text">
+<span class="title-index">8</span>
+<span class="title-link" nslog-type="10002802">运营商简介</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#9" class="title-link">
+<span class="text">
+<span class="title-index">9</span>
+<span class="title-link" nslog-type="10002802">二期工程</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div id="side_box_fengchao" class="fengchao side-box" nslog="area" nslog-type="10000902">
+</div>
+<div id="side_box_unionAd" class="unionAd side-box">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>
+
+<div class="wgt-footer-main">
+<div class="content">
+<dl class="fresh">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-fresh"></em>新手上路</dt>
+<dd>
+<div><a target="_blank" href="/usercenter/tasks#guide">成长任务</a></div>
+<div><a target="_blank" href="/help#main01">编辑入门</a></div>
+<div><a target="_blank" href="/help#main06">编辑规则</a></div>
+<div><a target="_blank" href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E6%9C%AC%E4%BA%BA%E8%AF%8D%E6%9D%A1%E7%BC%96%E8%BE%91%E6%9C%8D%E5%8A%A1/22442459?bk_fr=pcFooter">本人编辑</a><img src="https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/new-icon_a64774d.png" class="new-icon" alt="new"></div>
+</dd>
+</dl>
+<dl class="question">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-question"></em>我有疑问</dt>
+<dd>
+<div><a id="J-bk-feedback-query" data-lemma="武汉地铁3号线" href="javascript:void(0);" nslog-type="10070001">内容质疑</a></div>
+<div><a target="_blank" href="http://zhiqiu.baidu.com/baike/passport/html/baikechat.html" nslog-type="10000003">在线客服</a></div>
+<div><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91">官方贴吧</a></div>
+<div><a id="J-bk-feedback-main" href="javascript:void(0);">意见反馈</a></div>
+</dd>
+</dl>
+<dl class="suggestion">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-suggestion"></em>投诉建议</dt>
+<dd>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=1">举报不良信息</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=2">未通过词条申诉</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=6">投诉侵权信息</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=5">封禁查询与解封</a></div>
+</dd>
+</dl>
+</div>
+<div class="copyright">©2019&nbsp;Baidu&nbsp;<a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_en=baike&class=89&id=1637" target="_blank">百科协议</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_id=10&class=690&id=1001779" target="_blank">隐私政策</a>&nbsp;|&nbsp;<a href="/operation/cooperation" target="_blank">百度百科合作平台</a>&nbsp;|&nbsp;<span>京ICP证030173号&nbsp;</span><img class="copyright-img" width="13" height="16" src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png"></div>
+<p class="recordcode"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001" target="_blank"><i class="icon-police"></i>京公网安备11000002000001号</a></p>
+</div>
+
+
+<div class="lemmaWgt-searchHeader">
+<div class="layout cmn-clearfix">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-simple cmn-clearfix ">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080015" name="word" type="text" autocomplete="off" autocorrect="off" value="武汉轨道交通3号线" /><button id="search" nslog="normal" nslog-type="10080013" type="button">进入词条</button>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="clear" style="margin-right:8px;">清除历史记录</span><span id="close" nslog="normal" nslog-type="10080016">关闭</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="tool-buttons">
+<a class="toolButtons-edit button j-edit-link" href="javascript:;" nslog-type="10010001"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-hollow"></em>编辑</a>
+<a class="toolButtons-collect button" href="javascript:;" nslog-type="10010002"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>收藏</a>
+<a class="toolButtons-vote button top-vote" href="javascript:;" nslog-type="10010003"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em><span class="j-tool-btn-vote-num">赞</span></a>
+</div>
+<div class="user-info">
+<a class="user-link unlogin" href="javascript:;" nslog-type="10010008" target="_blank">登录</a>
+</div>
+</div></div>
+<div class="new-bdsharebuttonbox new-side-share" id="side-share">
+<span class="title">分享</span>
+<div class="side-border">
+<div class="triangle"></div>
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060101">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060301">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060001">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060201">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</div>
+</div>
+<div class="qrcode-wrapper" id="layer" style="display: none">
+<div class="bd_weixin_popup_header">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+<span>分享到微信朋友圈</span>
+</div>
+<div id="wechat-qrcode-img"></div>
+<div class="bd_weixin_popup_footer">打开微信“扫一扫”即可将网页分享至朋友圈</div>
+</div>
+<div></div><div></div>
+<script>
+      window['__abbaidu_2020_subidgetf'] = function () {
+          var subid = 01000000;
+          return subid;
+      };
+    </script>
+<script async src="https://dlswbr.baidu.com/heicha/mw/abclite-2020-s.js"></script>
+
+</body><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/js/mod_4302fe0.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_18f1b51.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_459492a.js","pkg":"wiki-lemma:p5"},"wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip_3a154ae.js","deps":["wiki-common:widget/lib/jquery/jquery.js","wiki-common:widget/lib/jsmart/jsmart.js","wiki-common:widget/component/nslog/nslog.js"]}},"pkg":{"wiki-lemma:p5":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_853c311.js"}}});</script><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_363b44d.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_8d43709.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_ea4d2ff.js"></script>
+<script type="text/javascript">!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery'),
+    userbar = require('wiki-common:widget/component/userbar-n/userbar-n');
+    
+  userbar.buildUserbar($('#j-wgt-userbar'), null);
+}();
+!function(){  require('wiki-common:widget/component/headTabBar/headTabBar');
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-main'));
+  }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var cookie = require('wiki-common:widget/util/cookie');
+    if (!cookie.get('baikedeclare')) {
+        $('#J-declare-wrap').css('display', 'block');
+    }
+    $('#J-declare-close').on('click', function () {
+        // 用户关闭后，不再显示，这里暂设过期时间为1年
+        cookie.set('baikedeclare', 'showed', {
+            expires: 365 * 60 * 60 * 24 * 1000,
+            path: '/'
+        });
+        $('#J-declare-wrap').css('display', 'none');
+    });
+}();
+!function(){var $ = require('wiki-common:widget/lib/jquery/jquery');
+
+var timer = '';
+
+$('.wgt-navbar').on('mouseenter', 'dl', function() {
+  clearTimeout(timer);
+  timer = setTimeout(function() {
+    $('.wgt-navbar').addClass('wgt-navbar-hover');
+  }, 300);
+}).on('mouseleave', function() {
+  clearTimeout(timer);
+  $('.wgt-navbar').removeClass('wgt-navbar-hover');
+}).on('click', 'a', function() {
+  clearTimeout(timer);
+  $('.wgt-navbar').removeClass('wgt-navbar-hover');
+});
+}();
+!function(){                var $ = require('wiki-common:widget/lib/jquery/jquery');
+                var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+                // 展现策略
+                rightCheck.editView('13024077', function(res) {
+                    if (!res.errno) {
+                        if (res.data.edit) {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    } else {
+                        if ('1') {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    }
+                });
+                require('wiki-lemma:widget/basicElement/addSub/addSub.js')({                    lemmaId: '13024077',                    lemmaTitle:"\u6b66\u6c49\u5730\u94c13\u53f7\u7ebf",                    lemmaDesc:null,                    versionId: '138575858',                    subLemmaId: '11255602'                });
+            }();
+!function(){        var $ = require('wiki-common:widget/lib/jquery/jquery');
+        var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+        // 展现策略
+        rightCheck.editView('13024077', function(res) {
+            if (!res.errno) {
+                if (res.data.divide) {
+                    $('.top-tool .split-icon').css('display', 'block');
+                }
+            }
+        });
+    }();
+!function(){    var nslog = require('wiki-common:widget/component/nslog/nslog');
+	require.async(["wiki-lemma:widget/basicElement/collect/collect"],function(collect){
+		collect({
+            newLemmaId:"13024077",
+			lemmaId:"10937962",
+			subLemmaId:"11255602"
+		});
+	});
+}();
+!function(){    require.async(["wiki-lemma:widget/basicElement/topShare/topShare"],function(topShare){
+        topShare({
+            newLemmaId: '13024077'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                nsLog('10003104');              
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        } else {
+            if ('1') {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                nsLog('10003104');  
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        }
+    });
+
+    var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
+    if (canDiscussion) {
+        // 锁定跳转
+        $('body').on('click', '.lock-lemma', function () {
+            var me = $(this);
+            var content = '<div style="text-align: left;width: 528px">'
+                + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;">' 
+                + '词条锁定，暂时无法编辑</h2>' 
+                + '<p style="font-size: 16px;color: #333;line-height: 26px;">'
+                + '亲爱的用户，词条存在争议或词条内容较完善都可能被锁定（'
+                + '<a href="/view/10812319.htm" target="_blank">查看详情</a>）。</p>'
+                + '<p style="font-size: 16px;color: #333;line-height: 26px;">'
+                + '如果你认为锁定词条内容存在问题需要修改，可进行以下操作：</p></div>';
+            new Dialog({
+                title: '编辑提示',
+                content: content,
+                btns: [
+                    {
+                        text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>',
+                        key: 'discussion'
+                    }
+                ],
+                onBtnClick: function(btnKey){
+                    if (btnKey === 'discussion') {
+                        window.location.href = '/planet/talk?lemmaId=13024077&category=1';
+                    }
+                }
+            }).show();
+        });
+        // 获取讨论数
+        $.get('/discussion/api/getdiscussioncount?lemmaId=13024077', function (res) {
+            if (res && res.errno === 0 && res.data.discussionCount > 0) {
+                var numText = res.data.discussionCount <= 99 ? res.data.discussionCount : '99+';
+                $('.j-discussion-link .num').text(numText).show();
+            }
+        });
+        $('.lemmaWgt-lemmaTitle .j-discussion-link').on('click', function () {
+            $(this).find('.num').remove();
+        });
+        // 讨论按钮展现量
+        nsLog(90000101, window.location.href, {
+            lemmaid: 13024077
+        });
+    }
+}();
+!function(){	require('wiki-lemma:widget/lemma_content/mainContent/basicInfo/basicInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require('wiki-common:widget/component/nslog/nslog');
+    nslog(10002701);
+    $('.lemmaWgt-lemmaCatalog a').on('click', function () {
+           nslog(10002702);
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13024077', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){	require.async(["wiki-common:widget/lib/jquery/jquery","wiki-lemma:widget/lemma_content/mainContent/albumList/albumList","wiki-common:widget/component/nslog/nslog"],function($,AlbumList,nslog){
+		var list=new AlbumList({
+			newLemmaId:"13024077",
+			lemmaTitle:"武汉地铁3号线",
+			lemmaId:"10937962",
+			subLemmaId:"11255602",
+			data:{"16152585":{"coverpic":"d6ca7bcb0a46f21f1e3fc87df7246b600c33ae91","desc":"3\u53f7\u7ebf\u7ebf\u8def\u56fe","albumTag":"","height":165,"width":220,"total":3,"coverurl":"https:\/\/gss0.bdstatic.com\/94o3dSag_xI4khGkpoWK1HF6hhy\/baike\/s%3D235\/sign=3e19a41629381f309a198aaa9c014c67\/d6ca7bcb0a46f21f1e3fc87df7246b600c33ae91.jpg","toppics":[{"src":"dc15484e0c57203bb3de05e7","owner":"\u5e7d\u5e7d\u7d2b\u77dc","desc":"\u6b66\u6c49\u5730\u94c13\u53f7\u7ebf\u5927\u81f4\u8d70\u5411","height":444,"width":429},{"src":"d6ca7bcb0a46f21f1e3fc87df7246b600c33ae91","owner":"\u5e7d\u5e7d\u7d2b\u77dc","desc":"\u6b66\u6c49\u5730\u94c13\u53f7\u7ebf\u7ad9\u70b9\u7ebf\u8def\u56fe","height":375,"width":500},{"src":"bd70426037f8dab38db10d99","owner":"\u5e7d\u5e7d\u7d2b\u77dc","desc":"3\u53f7\u7ebf\u8d70\u5411\u53ca\u505c\u9760\u7ad9\u70b9","height":270,"width":287}]},"23727716":{"coverpic":"060828381f30e924d35503324a086e061c95f7c4","desc":"\u5efa\u8bbe\u5927\u9053\u5730\u9677","albumTag":"","height":146,"width":220,"total":2,"coverurl":"https:\/\/gss3.bdstatic.com\/-Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/s%3D235\/sign=183c28315cafa40f38c6c9de9e65038c\/060828381f30e924d35503324a086e061c95f7c4.jpg","toppics":[{"src":"060828381f30e924d35503324a086e061c95f7c4","owner":"\u9ad8\u5927\u4e3a12306","desc":"\u5efa\u8bbe\u5927\u9053\u5730\u9677","height":365,"width":550},{"src":"ac4bd11373f0820264340f3c4dfbfbedab641b0a","owner":"\u9ad8\u5927\u4e3a12306","desc":"\u5efa\u8bbe\u5927\u9053\u5730\u9677","height":371,"width":400}]},"0":{"coverpic":"f603918fa0ec08fa034ef79154ee3d6d55fbdabe","width":926,"height":480,"desc":"\u8bcd\u6761\u56fe\u7247","total":28,"coverurl":"https:\/\/gss2.bdstatic.com\/9fo3dSag_xI4khGkpoWK1HF6hhy\/baike\/s%3D235\/sign=eb729b96fb03738dda4a0b21861bb073\/f603918fa0ec08fa034ef79154ee3d6d55fbdabe.jpg"}}
+		});
+		!!window.ScriptLazyLoad && window.ScriptLazyLoad.regist({
+			dom:$('.album-list'),
+			loadFunc:function(){
+				list.load();
+				nslog(1258);
+			},
+			distance:500
+		});
+	});
+}();
+!function(){		require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReference","wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip"],function(Reference,ReferenceTip){
+			new Reference({
+				subLemmaId:"11255602"
+			});
+			new ReferenceTip({
+				subLemmaId:"13024077",
+				lemmaTitle:"武汉地铁3号线",
+				reference:[{"type":"1","title":"\u6b66\u6c49\u5730\u94c13\u53f7\u7ebf\u5e74\u5e95\u901a\u8f66 8\u5927\u201c\u9ad8\u989c\u503c\u201d\u7ad9\u70b9\u53ef\u8d4f\u7f8e\u666f","url":"\/reference\/13024077\/b651iZ9Nwh2aEoa3bQSN5WHDqF9hYjG9SM19VO9mV02hmytNtzBJQ9dBVFFPTmieczH52BW4O3PUit-WbpV6PfjjXKf1tPrf5a3qnomxLN6glQ","site":"\u7f51\u6613\u65b0\u95fb","publishDate":"","refDate":"2015-10-24","index":1},{"type":"1","title":"\u6c49\u53e3\u9ec4\u5b5d\u6cb3\u8def\u7a81\u53d1\u5730\u9677 \u5730\u94c13\u53f7\u7ebf\u65bd\u5de5\u4e2d\u53d1\u751f\u9669\u60c5","url":"\/reference\/13024077\/9190qEBXb_6X1dtGHoug27bjX53Du8MHEdPBf4ikrpc3qxgkXfSWNoyfMTrlekBU9O9manlkaHzG5CAgpyvGalhibV3b1VL4yRDb5SafJPORCGbYMUJFCe1UGSRKD2F9oQ","site":"\u65b0\u6d6a\u6e56\u5317","publishDate":"2015-2-11","refDate":"2015-07-29","index":2},{"type":"1","title":"3\u53f7\u7ebf\u4e00\u671f\u5de5\u7a0b\u8f66\u8f86\u9996\u62792\u5217\u8f66\u5230\u6c49","url":"\/reference\/13024077\/6344gYgYksnCv9e-cMBfUP7wFulDpXrWiauiONoYSVzUDS-X35VgrZor3P1B7oc66FErL3Jar3_Ruv-WZ1TTF-fB-oCNwhuU1ogjo40yfrA_iCfA4BsEoN3je-7WijyYVinkM9rF_tx3KE-PJ-deSr-E-JN8wGDYnIbqiKEHNruybISLMKvrnTJ-4jKhSEqY5EQs2M2KsLPGq0L8mxA","site":"\u6b66\u6c49\u5730\u94c1\u96c6\u56e2","publishDate":"2015-03-31","refDate":"2015-07-29","index":3}]
+			});
+		});
+	}();
+!function(){        require.async(["wiki-common:widget/lib/jquery/jquery"],function($){
+            function openTagToggle(node) {
+                if ($(node).hasClass("collapse")) {
+                    $(node).removeClass("collapse");
+                    $("#open-tag").css("height", '22px');
+                } else {
+                    $(node).addClass("collapse");
+                    $("#open-tag").css("height", $("#open-tag-item").css("height"));
+                }
+            }
+            if (parseInt($("#open-tag-item").css("height")) <= 30) {
+                $('#open-tag-collapse').hide();
+            }
+            $("#open-tag-collapse").on("click", function () {
+                openTagToggle($("#open-tag")[0]);
+            });
+        });
+    }();
+!function(){        require('wiki-lemma:widget/lemma_content/configModule/zhixin/zhixin')(
+            13024077,
+            '武汉地铁3号线'
+        );
+    }();
+!function(){    require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaStatistics/lemmaStatistics"],function(init){
+        init({
+            newLemmaIdEnc:"56eafc2025cdfc28256b4199"
+        });
+    });
+}();
+!function(){	require.async(["wiki-lemma:widget/lemma_content/mainContent/sideCatalog/sideCatalog"],function(SideCatalog){
+		new SideCatalog();
+	});
+}();
+!function(){        require.async(["wiki-lemma:widget/promotion/fengchao/fengchao","wiki-lemma:widget/promotion/unionAd/unionAd"], function (init, unionAd) {
+            init({
+                newLemmaId: "13024077",
+                lemmaTitle: "武汉地铁3号线",
+                encodeLemmaTitle: "%CE%E4%BA%BA%B5%D8%CC%FA3%BA%C5%CF%DF",
+                adManager: null
+            }, {
+                errFn: unionAd,
+                dom: $('#side_box_unionAd')
+            });
+        });
+    }();
+!function(){        require.async(['wiki-lemma:widget/promotion/guessLike/guessLike'], function (app) {
+            app.init({
+                lemmaTitle: '武汉地铁3号线',
+                adManager: null
+            });
+        });
+    }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    var userLogin = require('wiki-common:widget/component/userLogin/userLogin');
+    var unameFiller = require('wiki-common:widget/component/unameFiller/unameFiller');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+
+            var isEnterprise = false;
+        var enterpriseOwnerUserId = 0;
+    
+    var userId = 0;
+    var editUrl = '/edit/' + encodeURIComponent('武汉地铁3号线') + '/' + '13024077';
+    var pgcUrl = '/enterprise/editpgc?lemmaId=13024077';
+    var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
+
+    userLogin.regist({
+        onLogin: function(user) {
+            userId = user ? user.uid : 0;
+        }
+    });
+
+    function gotoEdit(url, isMidNight) {
+        if (isMidNight) {
+            Dialog.alert({
+                title: '编辑提示',
+                subMsg: '晚23:00至次日8:00，因审核系统例行维护，您提交的版本可能需要较长时间才能通过，望您谅解。',
+                onConfirm: function() {
+                    window.location.href = url;
+                }
+            });
+        } else {
+            window.location.href = url;
+        }    
+    }
+
+    function showChoseEditDialog(pgcCallback, ugcCallback) {
+        new Dialog({
+            title: '编辑提示',
+            subMsg: '<p>您已开通企业百科服务，推荐您直接编辑“官方资料”，官方资料仅限企业百科绑定的百科账号修改，其他用户账号不可修改。</p><p>如果您想修改其他网友编辑的普通词条内容，请注意遵守百科百科编辑规则。<p>',
+            btns: [{
+            key: 'pgc',
+            text: '编辑官方资料'
+            }, {
+            style: 'white',
+            text: '修改普通词条',
+            key: 'ugc'
+            }],
+            onBtnClick: function(btnKey){
+                if (btnKey === 'pgc') {
+                    pgcCallback && pgcCallback();
+                } else if (btnKey === 'ugc') {
+                    ugcCallback && ugcCallback();
+                }
+            }
+        }).show();
+    }
+
+    function checkUserLegal(res) {
+        var legal = false;
+        switch (res.errno) {
+            case 100001:
+                nsLog('10003106');
+                userLogin.showLoginPop();
+                break;
+            case 100006:
+                unameFiller.show();
+                break;
+            default:
+                legal = true;
+        }
+        return true;
+    }
+
+    function checkUgc(res, url) {
+        if (res.errno) {
+            switch (res.errno) {
+                case 100005:
+                    alert('对不起，您目前被封禁');
+                    break;
+                case 110001:
+                    alert('对不起，该词条被锁定');
+                    break;
+                case 110007:
+                    alert('对不起，消歧页无法编辑');
+                    break;
+                case 110005:
+                    nsLog('10003101');
+                    var content = '<div style="text-align: left;width: 490px">'
+                        + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-top: 10px;margin-bottom: 20px;">' 
+                        + '对不起，你暂时没有权限编辑该词条</h2>' 
+                        + '<p style="font-size: 16px;color: #333;line-height: 26px;margin-bottom: 17px;">'
+                        + '亲爱的用户，该词条内容已较完善，需百科等级达到4级且通过率达85%才可编辑哦。</p>'
+                        + '<p style="font-size: 16px;color: #333">你当前百科等级为'
+                        + res.data.userInfo.level + '级、通过率'
+                        + res.data.userInfo.passRatio + '%，可进行以下操作：</p></div>';
+                    var btns = [
+                        {
+                            key: 'join',
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">反馈词条问题，参与百科共建</span>'
+                        },
+                        {
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">参加成长任务，提升编辑权限</span>',
+                            key: 'task'
+                        }
+                    ];
+                    if (canDiscussion) {
+                        btns = [
+                            {
+                                key: 'discussion',
+                                text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>'
+                            },
+                            {
+                                text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                                key: 'task'
+                            }
+                        ];
+                    }
+                    new Dialog({
+                        title: '编辑提示',
+                        content: content,
+                        btns: btns,
+                        onBtnClick: function(btnKey){
+                            if (btnKey === 'discussion') {
+                                window.location.href = '/planet/talk?lemmaId=13024077&category=1';
+                            } else if (btnKey === 'task') {
+                                window.location.href = '/usercenter#guide';
+                            } else if (btnKey === 'join') {
+                                window.location.href = '/feedback';
+                            }
+                        }
+                    }).show();
+                    break;
+                case 110008:
+                    nsLog('10003102');
+                    var content = '<div style="text-align: left;width: 490px">'
+                        + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;margin-top: 10px;">' 
+                        + '对不起，你暂时没有权限编辑该词条</h2>' 
+                        + '<p style="font-size: 16px;color: #333;line-height: 26px;margin-bottom: 17px;">'
+                        + '亲爱的用户，该词条内容已较完善，需百科等级达到6级且通过率达85%才可编辑哦。</p>'
+                        + '<p style="font-size: 16px;color: #333">你当前百科等级为'
+                        + res.data.userInfo.level + '级、通过率'
+                        + res.data.userInfo.passRatio + '%，可进行以下操作：</p></div>';
+                    var btns = [
+                        {
+                            key: 'join',
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">反馈词条问题，参与百科共建</span>'
+                        },
+                        {
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">参加成长任务，提升编辑权限</span>',
+                            key: 'task'
+                        }
+                    ];
+                    if (canDiscussion) {
+                        btns = [
+                            {
+                                key: 'discussion',
+                                text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>'
+                            },
+                            {
+                                text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                                key: 'task'
+                            }
+                        ];
+                    }
+                    new Dialog({
+                        title: '编辑提示',
+                        content: content,
+                        btns: btns,
+                        onBtnClick: function(btnKey){
+                            if (btnKey === 'discussion') {
+                                window.location.href = '/planet/talk?lemmaId=13024077&category=1';
+                            } else if (btnKey === 'task') {
+                                window.location.href = '/usercenter#guide';
+                            } else if (btnKey === 'join') {
+                                window.location.href = '/feedback';
+                            }
+                        }
+                    }).show();
+                    break;
+                case 470001:
+                    alert('系统错误，请刷新重试');
+                    break;
+                case 110003:
+                    nsLog('10003103');
+                    Dialog.alert({
+                        title: '编辑提示',
+                        subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                    });
+                    break;
+            }
+        } else {
+            if (!res.data.right.noAudit) {
+                Dialog.alert({
+                    title: '编辑提示',
+                    subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                });
+                return;
+            }
+            gotoEdit(url, res.data.notice.isMidNight);
+        }
+    }
+
+    $(document.body).on('click', '.j-edit-link', function() {
+        nsLog('10003100');
+        var dl = $(this).attr('data-edit-dl');
+        if (dl) {
+            var url = editUrl + '?dl=' + dl;
+        } else {
+            var url = editUrl;
+        }
+
+        rightCheck.preeditCheck('13024077', '武汉地铁3号线', '武汉地铁3号线', '138575858', '', function(res) {
+            if (!checkUserLegal(res)) {
+                return;
+            }
+            if (isEnterprise && enterpriseOwnerUserId === userId) {
+                showChoseEditDialog(function() {
+                    location.href = pgcUrl;
+                }, function() {
+                    checkUgc(res, url);
+                });
+            } else {
+                checkUgc(res, url);
+            }
+        });
+    });
+}();
+!function(){  require.async(["wiki-common:widget/lib/jquery/jquery","wiki-common:widget/component/footer/footer_feedback"], function($, feedback){
+    feedback({el: '#J-bk-feedback-main',
+      proData: {
+        "extend_feedback_channel": null
+      }
+    });
+    feedback({el: '#J-bk-feedback-query', config: {
+        appid: 215645,
+        productLine: 20184,
+        needContactWay: false,
+        issuePlaceholder: '亲爱的百度百科用户，请在此填写您的质疑内容及原因哦～'
+      },
+      proData: {
+        "kw": $('#J-bk-feedback-query').data('lemma')
+      }
+    });
+  });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-simple'));
+  }();
+!function(){    require.async(["wiki-lemma:widget/tools/searchHeader/toolButtons-n/toolButtons"],function(init){
+        init({
+            lemmaId:"10937962",
+            subLemmaId:"11255602",
+            newLemmaId:"13024077"
+        });
+    });
+}();
+!function(){    require('wiki-lemma:widget/tools/searchHeader/toolButtons-n/userInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      animation = require('wiki-common:widget/util/animation'),
+      nslog = require('wiki-common:widget/component/nslog/nslog'),
+      initSearchbar = require('wiki-common:widget/component/searchbar/searchbar');
+
+    var isFadeIn = false,
+        isFadeOut = false;
+
+    var fadeInAni, fadeOutAni;
+
+    $(window).on('scroll', function(e) {
+        var scrollTop = $(this).scrollTop();
+
+        if (scrollTop > 200 && !isFadeIn && $('.lemmaWgt-searchHeader').css('display') == 'none') {
+            fadeOutAni && fadeOutAni.stop();
+            fadeInAni = animation({
+                duration: 200,
+                easing: 'linear',
+                onStart: function() {
+                    isFadeOut = false;
+                    isFadeIn = true;
+                    $('.lemmaWgt-searchHeader').css('display', 'block');
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', progress)
+                },
+                onComplete: function(progress) {
+                    isFadeIn = false;
+                    nslog(10010007);
+                }
+            });
+        } else if (scrollTop <= 200 && !isFadeOut && $('.lemmaWgt-searchHeader').css('display') == 'block') {
+            fadeInAni && fadeInAni.stop();
+            fadeOutAni = animation({
+                duration: 300,
+                easing: 'linear',
+                onStart: function() {
+                    $('.lemmaWgt-searchHeader #suggestion').hide();
+                    isFadeIn = false;
+                    isFadeOut = true;
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', 1 - progress);
+                },
+                onComplete: function(progress) {
+                    isFadeOut = false;
+                    $('.lemmaWgt-searchHeader').css('display', 'none');
+                }
+            });
+        }
+    });
+}();
+!function(){    require.async(['wiki-lemma:widget/tools/newSideShare/qzopensl']);
+    require.async(["wiki-lemma:widget/tools/newSideShare/taskSideShare"],function(taskShare){
+        taskShare.init({
+            title: '武汉地铁3号线',
+            desc: "\u6b66\u6c49\u8f68\u9053\u4ea4\u901a3\u53f7\u7ebf\u5168\u7ebf\u4f4d\u4e8e\u5730\u4e0b\uff0c\u8d77\u4e8e\u6c8c\u9633\u5927\u9053\uff0c\u7ecf\u8fc76\u4e2a\u57ce\u533a\u5230\u8fbe\u5b8f\u56fe\u5927\u9053\uff0c\u662f\u8fde\u63a5\u6c49\u53e3\u3001\u6c49\u9633\u7684\u9aa8\u5e72\u7ebf\u8def\uff0c\u4e5f\u662f\u7b2c\u4e00\u6761\u4e0b\u7a7f\u6c49\u6c5f\u7684\u5730\u94c1\u7ebf\u8def\uff0c\u7a7f\u8fc7\u6b66\u6c49\u7ecf\u6d4e\u6280\u672f\u5f00\u53d1\u533a\u3001\u6c49\u9633\u533a\u3001\u785a\u53e3\u533a\u3001\u6c5f\u6c49\u533a\u3001\u6c5f\u5cb8\u533a\u3001\u4e1c\u897f\u6e56\u533a6\u4e2a\u57ce\u533a\uff0c2012\u5e7403\u670831\u65e5\u5168\u9762\u5f00\u5de5\uff0c\u4e8e2015\u5e7412\u670828\u65e5\u5f00\u901a\u3002\u6b66\u6c49\u8f68\u9053\u4ea4\u901a3\u53f7\u7ebf\u4e0e\u6b66\u6c49\u8f68\u9053\u4ea4\u901a2\u53f7\u7ebf\u3001\u6b66\u6c49\u8f68\u9053\u4ea4\u901a4\u53f7\u7ebf\u5f62\u6210\u8fde\u63a5\u6b66\u6c49\u4e09\u9547\u6c49\u53e3\uff0c\u6b66\u660c\uff0c\u6c49\u9633\u7684\u73af\u7ebf\u30022015\u5e7402\u670803\u65e5\uff0c\u6b66\u6c49\u5e02\u5341\u4e09\u5c4a\u4eba\u5927\u56db\u6b21\u4f1a\u8bae\u5728\u6c49\u53e3\u5f00\u5e55\uff0c\u4ee3\u5e02\u957f\u4e07\u52c7\u4f5c\u653f\u5e9c\u5de5\u4f5c\u62a5\u544a\u65f6\u54111000\u591a\u4e07\u5e02\u6c11\u627f\u8bfa\uff0c\u7262\u8bb0\u201c\u5730\u94c1\u751f\u65e5\u201d\u30023\u53f7\u7ebf\u4e00\u671f\u4e8e2015\u5e7412\u670828\u65e5\u987a\u5229\u5efa\u6210\u901a\u8f66\uff0c\u5b9e\u73b0\u4e2d\u5fc3\u57ce\u533a\u5730\u94c1\u521d\u6b65\u6210\u7f51\u3002",
+            pic: 'https:\/\/gss2.bdstatic.com\/9fo3dSag_xI4khGkpoWK1HF6hhy\/baike\/w%3D268\/sign=e222291f8b18367aad8978db16738b68\/f603918fa0ec08fa034ef79154ee3d6d55fbdabe.jpg',
+            url: '',
+            qqPic: 'https:\/\/gss2.bdstatic.com\/9fo3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D480%2C480%2C50\/sign=247a9a30a1af2eddd4a41aa9eb2d35d1\/f603918fa0ec08fa034ef79154ee3d6d55fbdabe.jpg',
+            newLemmaId: '13024077',
+            lemmaTitle: '武汉地铁3号线'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require("wiki-common:widget/component/nslog/nslog");
+    var testElem = require('wiki-common:widget/component/testElem/testElem');
+    var cmsModuleLoader = require('wiki-common:widget/component/cmsModuleLoader/cmsModuleLoader');
+
+    function requireAsync() {
+        require.async(['wiki-lemma:widget/tools/announcement/announcement']);
+    }
+
+    cmsModuleLoader('/api/wikiui/getlemmaconfig', [{
+        name: 'announcement',
+        script: 'wiki-lemma:widget/tools/announcement/announcement.js'
+    }]);
+
+    require.async(["wiki-lemma:widget/tools/lazyLoad/lazyLoad"], function(LazyLoad) {
+        new LazyLoad();
+    });
+
+    require.async(['wiki-common:widget/component/nslog/nslog','wiki-common:widget/lib/jquery/jquery'], function(nslog, $) {
+        nslog().setGlobal({
+            lemmaId: "10937962",
+            newLemmaId: "13024077",
+            subLemmaId: "11255602",
+            lemmaTitle: "武汉地铁3号线"
+        });
+
+        // 词条页 pv
+        nslog(9322);
+
+        // 新版头部pv（小流量）
+        if ($('.pc-header-new').length > 0) {
+            nslog(9069);
+        }
+
+        // 链接点击 pv
+        var lemmaPageRegExp = new RegExp(/\/subview\/\d+|\/view\/\d+|\/item\//i);
+        $('body').on('mousedown', 'a', function() {
+            var href = $(this).attr('href');
+            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0) {
+                // 链接点击 pv
+                nslog(10000001);
+                if (lemmaPageRegExp.test(href)) {
+                    // 词条页链接点击 pv
+                    nslog(10000002, window.location.href, {
+                        targetTitle: $(this).text()
+                    });
+                }
+            }
+        });
+
+        /****** 词条页站内流转需求统计 start ******/
+        (function () {
+            // 各种统计配置
+            var circulationLinkCfg = {
+                innerLink: [ // 内链
+                    '.para',
+                    '.lemmaWgt-baseInfo-simple-largeMovie',
+                    '.lemmaWgt-baseInfo-simple-largeStar',
+                    '.basic-info .basicInfo-block',
+                    '.lemma-summary',
+                    '.lemmaWgt-lemmaSummary',
+                    '.view-tip-panel',
+                    '.horizontal-module',
+                    '.lemmaWgt-roleIntroduction',
+                    '.dramaSeries .dramaSerialList',
+                    '.module-music',
+                    '.table-view',
+                    '[log-set-param="table_view"]',
+                    '.list-module',
+                    '.cell-module',
+                    '.baseBox .dl-baseinfo', // 配置后台字段
+                    '.pvBtn-box .leadPVBtnWrapper',
+                    '.drama-actor',
+                    '#staffList',
+                    '.starMovieAndTvplay',
+                    '.main_tab:not(.main_tab-defaultTab)' // 除去词条tab外的tab
+                ],
+                relationTable: '.rs-container-foot', // 关系表
+                peopleRelation: '.star-info-block.relations, .lemmaWgt-focusAndRelation', // 人物关系（明星+普通）
+                moduleActors: '.featureBaseInfo .actors, .lemmaWgt-majorActors', // 主要演员、嘉宾、主持人
+                moduleWorks: '.featureBaseInfo .works, .large-feature .works', // 代表作品
+                moduleQuarterly: '.featureBaseInfo .po_quarterly, .mian_quarterly', // 分季介绍
+                rankStar: '.rank-list.stars-rank', // 明星榜
+                rankDrama: '.drama-rank-list', // 电视剧榜
+                specialTopic: '.special-topic', // 专题模块
+                modDetailTable: '#modDetailTable', // 关系表出图
+                chuizhitu: '.chuizhitu', // 垂直化模块
+                polysemantList: '.polysemantList-wrapper' // 义项切换
+            };
+            /****** 连接统计 ******/
+            function clickNslogFn() {
+                for (var k in circulationLinkCfg) {
+                    if (k === 'innerLink') {
+                        // 词条内链到词条页
+                        var tempArr = circulationLinkCfg[k];
+                        for (var i = 0, l = tempArr.length; i < l; i++) {
+                            tempArr[i] += ' a';
+                        }
+                        var sSelector = tempArr.join(', ');
+
+                        $('body').on('mousedown', sSelector, {key: k},function(e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            var tar = $(this).attr('target') || '';
+                            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0
+                            && tar === '_blank' && lemmaPageRegExp.test(href)) {
+                                // 词条页普通内链点击 pv
+                                nslog(10000004, null ,{division: key});
+                            }
+                        });
+                    } else {
+                        // 模块到词条页链接
+                        $(circulationLinkCfg[k]).on('mousedown', 'a', {key: k}, function (e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            if (href && href.indexOf('#') !== 0 && lemmaPageRegExp.test(href)) {
+                                // 词条页配置模块链接点击 pv
+                                nslog(10000004, null, {division: key});
+                            }
+                        });
+                    }
+                }
+            }
+            // 发起统计请求
+            clickNslogFn();
+
+            /****** 各模块展现量pv ******/
+            function checkModuleIsShow() {
+                var result = [];
+                for (var k in circulationLinkCfg) {
+                    if (k !== 'innerLink' && k !== 'relationTable') {
+                        !!$(circulationLinkCfg[k]).html() && result.push(k);
+                    }
+                }
+                if (result.length > 0) {
+                    nslog(10000005, null, {showModules: result.join(',')});
+                }
+            }
+            checkModuleIsShow();
+
+        })();
+        /****** 词条页站内流转需求统计 end ******/
+
+    });
+
+    // 广告接入 wikiad 统一加载
+    // log 词条页广告被拦截情况（此处 log 请求行为）
+    nslog(70000101, window.location.href, {
+        api: 'lemma-ad',
+        action: 'request'
+    });
+    var tags = [{"tagId":0,"tagName":"\u793e\u4f1a"},{"tagId":0,"tagName":"\u4ea4\u901a"}];
+    var tagsArray = [];
+    for (var key in tags) {
+        tagsArray.push(tags[key].tagName);
+    }
+    $.ajax({
+        type: 'GET',
+        url: '/api/wikiad/getsquirrels',
+        data: {
+            lemmaId: 13024077,
+            tags: tagsArray.join()
+        },
+        cache: false,
+        dataType: 'JSON',
+        success: function (res) {
+            // log 词条页广告被拦截情况（此处 log 请求成功）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'success'
+            });
+
+            if (!res.errno) {
+                if (res.data[5]) {
+                    require.async(['wiki-lemma:widget/promotion/rightPreciseAd/rightPreciseAd'], function(rightPreciseAd) {
+                        rightPreciseAd(res.data[5]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[5][0].adId,
+                            adTitle: res.data[5][0].name,
+                            adPos: 5
+                        });
+                    });
+                } else if (res.data[1]) {
+                                        require.async(['wiki-lemma:widget/promotion/vbaike/vbaike'], function(vbaike) {
+                        vbaike(res.data[1]);
+                        for(var i in res.data[1]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[1][i].adId,
+                                adTitle: res.data[1][i].name,
+                                adPos: 1
+                            });
+                        }
+                    });
+                                    }
+                if (res.data[9]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightBigAd/rightBigAd'], function(rightBigAd) {
+                        rightBigAd(res.data[9]);
+                            nslog(10002201, location.href, {
+                                adId: res.data[9][0].adId,
+                                adTitle: res.data[9][0].name,
+                                adPos: 9
+                            });
+                    });
+                                    } else if(res.data[2]) {
+                    require.async(['wiki-lemma:widget/promotion/slide/slide'], function(slide) {
+                        slide(res.data[2]);
+                        for(var i in res.data[2]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[2][i].adId,
+                                adTitle: res.data[2][i].name,
+                                adPos: 2
+                            });
+                        }
+                    });
+                }
+                if (res.data[3]) {
+                                        require.async(['wiki-lemma:widget/promotion/topAd/topAd'], function(topAd) {
+                        topAd(res.data[3]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[3][0].adId,
+                            adTitle: res.data[3][0].name,
+                            adPos: 3
+                        });
+                    });
+                                    }
+                if (res.data[4]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightAd/rightAd'], function(rightAd) {
+                        rightAd(res.data[4]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[4][0].adId,
+                            adTitle: res.data[4][0].name,
+                            adPos: 4
+                        });
+                    });
+                                    }
+                if (res.data[15]) {
+                    require.async(['wiki-lemma:widget/promotion/banner/banner'], function(banner) {
+                        banner(res.data[15]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[15][0].adId,
+                            adTitle: res.data[15][0].name,
+                            adPos: 15
+                        });
+                    });
+                }
+                if (res.data[16]) {
+                    require.async(['wiki-lemma:widget/promotion/declaration/declaration'], function(declaration) {
+                        declaration(res.data[16]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[16][0].adId,
+                            adTitle: res.data[16][0].name,
+                            adPos: 16
+                        });
+                    })
+                }
+            } else {
+                return;
+            }
+
+            setTimeout(function () {
+                var elemArr = {};
+                res.data[1] && res.data[1].length > 0 && (elemArr['lemma-vbaike-ad'] = $('.lemmaWgt-promotion-vbaike .promotion_viewport a:eq(0) img').get(0));
+                res.data[2] && res.data[2].length > 0 && (elemArr['lemma-slide-ad'] = $('.lemmaWgt-promotion-slide .promotion_viewport a:eq(0) img').get(0));
+                res.data[3] && res.data[3].length > 0 && (elemArr['lemma-navbar-ad'] = {
+                    node: $('.header [nslog-type="10002202"]').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.header [nslog-type="10002202"]').css('background-image').indexOf(res.data[3][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[4] && res.data[4].length > 0 && (elemArr['lemma-side-ad'] = {
+                    node: $('.right-ad img').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.right-ad img').attr('src').indexOf(res.data[4][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[15] && res.data[15].length > 0 && (elemArr['lemma-configModule-banner'] = $('.configModuleBanner').get(0));
+                res.data[16] && res.data[16].length > 0 && (elemArr['lemma-configModule-declaration'] = $('.lemmaWgt-declaration').get(0));
+
+                testElem.log(elemArr, 70000102);
+            }, 1000);
+        },
+        error: function () {
+            // log 词条页广告被拦截情况（此处 log 请求失败）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'error'
+            });
+        }
+    });
+
+    // 设置分享内容
+    window.BKShare.setCommon({
+        bdText: "\u3010\u6b66\u6c49\u5730\u94c13\u53f7\u7ebf_\u767e\u5ea6\u767e\u79d1\u3011\u6b66\u6c49\u8f68\u9053\u4ea4\u901a3\u53f7\u7ebf\u5168\u7ebf\u4f4d\u4e8e\u5730\u4e0b\uff0c\u8d77\u4e8e\u6c8c\u9633\u5927\u9053\uff0c\u7ecf\u8fc76\u4e2a\u57ce\u533a\u5230\u8fbe\u5b8f\u56fe\u5927\u9053\uff0c\u662f\u8fde\u63a5\u6c49\u53e3\u3001\u6c49\u9633\u7684\u9aa8\u5e72\u7ebf\u8def\uff0c\u4e5f\u662f\u7b2c\u4e00\u6761\u4e0b\u7a7f\u6c49\u6c5f\u7684\u5730\u94c1\u7ebf\u8def\uff0c\u7a7f\u8fc7\u6b66\u6c49\u7ecf\u6d4e\u6280\u672f\u5f00\u53d1\u533a\u3001\u6c49\u9633\u533a\u3001\u785a\u53e3\u533a\u3001\u6c5f\u6c49\u533a\u3001\u6c5f\u5cb8\u533a\u3001\u4e1c\u897f\u6e56\u533a6\u4e2a\u57ce\u533a\uff0c2012\u5e7403\u670831\u65e5\u5168\u9762\u5f00\u5de5\uff0c\u4e8e2015\u5e7412\u670828\u65e5\u5f00\u901a\u3002\u6b66\u6c49\u8f68\u9053\u4ea4\u901a3\u53f7\u7ebf\u4e0e\u6b66\u6c49\u8f68\u9053\u4ea4\u901a2\u53f7\u7ebf\u3001\u6b66\u6c49\u8f68\u9053\u4ea4\u901a4\u53f7\u7ebf\u5f62\u6210\u8fde\u63a5\u6b66\u6c49\u4e09\u9547\u6c49\u53e3\uff0c\u6b66\u660c\uff0c\u6c49\u9633\u7684\u73af\u7ebf\u30022015\u5e7402\u670803\u65e5\uff0c\u6b66\u6c49\u5e02\u5341\u4e09\u5c4a\u4eba\u5927\u56db\u6b21\u4f1a\u8bae\u5728\u6c49\u53e3\u5f00\u5e55\uff0c\u4ee3\u5e02\u957f\u4e07\u52c7\u4f5c\u653f\u5e9c\u5de5\u4f5c\u62a5\u544a\u65f6\u54111000\u591a\u4e07\u5e02\u6c11\u627f\u8bfa\uff0c\u7262\u8bb0\u201c\u5730\u94c1\u751f\u65e5\u201d\u30023\u53f7\u7ebf\u4e00\u671f\u4e8e2015\u5e7412\u670828\u65e5\u987a\u5229\u5efa\u6210\u901a\u8f66\uff0c\u5b9e\u73b0\u4e2d\u5fc3\u57ce\u533a\u5730\u94c1\u521d\u6b65\u6210\u7f51\u3002.....\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u767e\u79d1\uff09",
+        bdDesc: '',
+        bdUrl: 'http:\/\/baike.baidu.com\/item\/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF\/13024077',
+        bdPic: '',
+        onBeforeClick: function (){
+            $('.bdshare_dialog_box').hide();
+        }
+    });
+
+    // 底部投诉带入当前页面 url
+    var map = [1, 2, 6, 5];
+    $('.wgt-footer-main .suggestion').find('a').each(function(i) {
+        $(this).attr('href', 'http://help.baidu.com/newadd?word=%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF' + '&&submit_link=' + encodeURIComponent(window.location.href) + '&prod_id=10&category=' + map[i]);
+    });
+
+    // 为超出预设内容的表格添加table-responsive控制
+    $('.main-content').find('table').each(function(index) {
+        var $that = $(this);
+        if ($that.width() > 790) {
+            $that.wrap('<div class="table-responsive"></div>');
+        }
+    });
+}();
+!function(){      require('wiki-common:widget/component/psLink/psLink');
+    }();</script>
+<script type="text/javascript">
+  var Hunter = window.Hunter || {};
+  Hunter.userConfig = Hunter.userConfig || [];
+  </script>
+<script type="text/javascript" src="https://gss0.baidu.com/70cFsjip0QIZ8tyhnq/hunter/baike.js?st=18081" defer></script><script type="text/javascript">
+  // DOM Ready时，统计用户可操作时间。
+  alog('speed.set', 'drt', +new Date);
+
+  void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d,k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+</script>
+</html>
